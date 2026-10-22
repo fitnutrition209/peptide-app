@@ -7958,6 +7958,116 @@
    ],
    "a": 0,
    "e": "In November 2013, after an independent readjudication of the RECORD trial, FDA concluded Avandia did not show an increased heart-attack risk versus metformin and sulfonylureas and required removal of the restrictions.<sup class=\"cites\"><a class=\"cite\" href=\"#s222\" data-src=\"222\">222</a></sup>"
+  },
+  {
+   "q": "What is TB-500?",
+   "o": [
+    "A synthetic fragment of thymosin beta-4",
+    "An FDA-approved recovery drug",
+    "Another name for BPC-157",
+    "A copper peptide used in skincare"
+   ],
+   "a": 0,
+   "e": "TB-500 is a short synthetic fragment (Ac-LKKTETQ) of thymosin beta-4, a natural repair-related protein.<sup class=\"cites\"><a class=\"cite\" href=\"#s20\" data-src=\"20\">20</a></sup> It isn't FDA-approved.<sup class=\"cites\"><a class=\"cite\" href=\"#s17\" data-src=\"17\">17</a></sup>"
+  },
+  {
+   "q": "What did a 2026 scoping review find on TB-500 for tendon, muscle or bone repair in people?",
+   "o": [
+    "No human studies giving TB-4 or TB-500 for these uses",
+    "Strong evidence from large human trials",
+    "One big trial showing faster healing",
+    "It's FDA-approved for tendon injuries"
+   ],
+   "a": 0,
+   "e": "The review found no human studies giving TB-4 or TB-500 for tendon, ligament, muscle, bone or cartilage repair; human evidence is mostly for the full-length protein in eye and skin uses.<sup class=\"cites\"><a class=\"cite\" href=\"#s20\" data-src=\"20\">20</a></sup>"
+  },
+  {
+   "q": "What is the human evidence for GHK-Cu (copper peptide) like?",
+   "o": [
+    "Mostly small cosmetic trials, many industry-linked",
+    "Large independent trials of injections",
+    "None at all, not even in the lab",
+    "Enough for FDA approval as a drug"
+   ],
+   "a": 0,
+   "e": "There's extensive cell and animal research on collagen and wound repair, but human studies are mostly small cosmetic trials, many industry-linked.<sup class=\"cites\"><a class=\"cite\" href=\"#s22\" data-src=\"22\">22</a></sup> There are no large, independent trials of injected GHK-Cu."
+  },
+  {
+   "q": "How are topical GHK-Cu creams sold in the US?",
+   "o": [
+    "As cosmetics",
+    "As FDA-approved prescription drugs",
+    "Only through compounding pharmacies",
+    "They're banned"
+   ],
+   "a": 0,
+   "e": "Topical creams are sold as cosmetics. Injectable GHK-Cu was removed from FDA's Category 2 list in April 2026 and is slated for an FDA advisory committee review.<sup class=\"cites\"><a class=\"cite\" href=\"#s17\" data-src=\"17\">17</a><span class=\"cite-sep\">,</span><a class=\"cite\" href=\"#s31\" data-src=\"31\">31</a></sup>"
+  },
+  {
+   "q": "What is elamipretide (SS-31, sold as Forzinity) FDA-approved for?",
+   "o": [
+    "Barth syndrome, a rare mitochondrial disease",
+    "Energy and longevity in healthy adults",
+    "Weight loss",
+    "Nothing; it's unapproved"
+   ],
+   "a": 0,
+   "e": "FDA granted accelerated approval on Sept 19, 2025 for Barth syndrome, based on improved knee-muscle strength; a confirmatory trial is required.<sup class=\"cites\"><a class=\"cite\" href=\"#s28\" data-src=\"28\">28</a></sup> There's no evidence for \"wellness\" use in healthy people."
+  },
+  {
+   "q": "What did FDA's Aug 24, 2026 warning letters say about sellers of \"research\" SS-31?",
+   "o": [
+    "They were distributing an unapproved drug",
+    "Research labels make it legal",
+    "SS-31 is a dietary supplement",
+    "Nothing; SS-31 wasn't mentioned"
+   ],
+   "a": 0,
+   "e": "FDA's warning letters named sellers of \"research\" SS-31 as distributing an unapproved drug.<sup class=\"cites\"><a class=\"cite\" href=\"#s13\" data-src=\"13\">13</a><span class=\"cite-sep\">,</span><a class=\"cite\" href=\"#s14\" data-src=\"14\">14</a></sup> The approved product is Forzinity, for Barth syndrome only.<sup class=\"cites\"><a class=\"cite\" href=\"#s28\" data-src=\"28\">28</a></sup>"
+  },
+  {
+   "q": "What does FDA's compounding safety page say about thymosin alpha-1?",
+   "o": [
+    "Its nomination was withdrawn; safety information is inadequate",
+    "It's approved as an immune booster",
+    "It's approved for sepsis",
+    "It's cleared for routine compounding"
+   ],
+   "a": 0,
+   "e": "Thymosin alpha-1 isn't FDA-approved. FDA's page lists it among withdrawn nominations, noting inadequate safety information.<sup class=\"cites\"><a class=\"cite\" href=\"#s33\" data-src=\"33\">33</a></sup>"
+  },
+  {
+   "q": "In human studies, what does kisspeptin-10 do in men?",
+   "o": [
+    "Strongly stimulates LH, raising testosterone",
+    "Lowers testosterone",
+    "Has no hormonal effect",
+    "Mainly lowers blood sugar"
+   ],
+   "a": 0,
+   "e": "Kisspeptin-10 strongly stimulates LH in men,<sup class=\"cites\"><a class=\"cite\" href=\"#s135\" data-src=\"135\">135</a></sup> and 12 days of daily infusions sustained LH and testosterone rises.<sup class=\"cites\"><a class=\"cite\" href=\"#s136\" data-src=\"136\">136</a></sup> There are no trials of long-term use for 'testosterone boosting'."
+  },
+  {
+   "q": "In Lilly's TRIUMPH-1 trial, about how much weight did people lose on the 12 mg dose of retatrutide?",
+   "o": [
+    "About 28% at 80 weeks",
+    "About 5%",
+    "About 50%",
+    "No more than placebo"
+   ],
+   "a": 0,
+   "e": "Lilly reported average 28.3% weight loss at 80 weeks on the 12 mg dose in TRIUMPH-1.<sup class=\"cites\"><a class=\"cite\" href=\"#s34\" data-src=\"34\">34</a></sup> Retatrutide is still not FDA-approved.<sup class=\"cites\"><a class=\"cite\" href=\"#s10\" data-src=\"10\">10</a></sup>"
+  },
+  {
+   "q": "In the SURMOUNT-5 head-to-head trial, how did tirzepatide compare with semaglutide?",
+   "o": [
+    "More weight loss: 20.2% vs 13.7%",
+    "Less weight loss than semaglutide",
+    "Exactly the same",
+    "The trial was stopped for safety"
+   ],
+   "a": 0,
+   "e": "Tirzepatide beat semaglutide head-to-head in SURMOUNT-5, 20.2% vs 13.7% average weight loss.<sup class=\"cites\"><a class=\"cite\" href=\"#s3\" data-src=\"3\">3</a></sup>"
   }
  ],
  "NOTFDA": {
@@ -8084,7 +8194,7 @@
     "tag": "Copia sintética de la hormona intestinal GLP-1. Inyección semanal que reduce el apetito y baja el azúcar en sangre.",
     "what": "Una versión modificada del GLP-1, una hormona que el intestino libera después de comer. Hace más lento el vaciamiento del estómago, le indica saciedad al cerebro y ayuda al páncreas a liberar insulina.",
     "claims": [
-     "Pérdida de peso",
+     "Bajar de peso",
      "Control del azúcar en sangre en la diabetes tipo 2"
     ],
     "evidence": "Sólida. En el ensayo STEP 1, los adultos con semaglutida 2.4 mg semanal perdieron en promedio 14.9% de su peso corporal en 68 semanas, frente a 2.4% con placebo.<sup class=\"cites\"><a class=\"cite\" href=\"#s1\" data-src=\"1\">1</a></sup> En el ensayo comparativo directo SURMOUNT-5 logró una pérdida de 13.7% frente a 20.2% con tirzepatida a las 72 semanas.<sup class=\"cites\"><a class=\"cite\" href=\"#s3\" data-src=\"3\">3</a></sup>",
@@ -8103,7 +8213,7 @@
     "tag": "Actúa sobre dos receptores de hormonas intestinales (GIP + GLP-1). Hoy es la inyección aprobada más eficaz para bajar de peso.",
     "what": "Un solo péptido que activa los receptores de GIP y de GLP-1, dos señales hormonales que intervienen en el apetito y el control del azúcar en sangre.",
     "claims": [
-     "Pérdida de peso",
+     "Bajar de peso",
      "Control del azúcar en sangre en la diabetes tipo 2"
     ],
     "evidence": "Sólida. En SURMOUNT-1, la dosis de 15 mg produjo una pérdida de peso promedio de 20.9% a las 72 semanas frente a 3.1% con placebo.<sup class=\"cites\"><a class=\"cite\" href=\"#s2\" data-src=\"2\">2</a></sup> Superó a la semaglutida en comparación directa (20.2% frente a 13.7%) en SURMOUNT-5.<sup class=\"cites\"><a class=\"cite\" href=\"#s3\" data-src=\"3\">3</a></sup>",
@@ -8121,7 +8231,7 @@
     "tag": "Fármaco experimental de triple acción hormonal con pérdidas de peso récord en ensayos. No está aprobado, pero ya se vende ilegalmente en internet.",
     "what": "Un péptido en investigación de Eli Lilly que activa tres receptores a la vez: GIP, GLP-1 y glucagón.",
     "claims": [
-     "Pérdida de peso",
+     "Bajar de peso",
      "Control de la diabetes",
      "Dolor por artrosis de rodilla y apnea del sueño (en obesidad)"
     ],
@@ -8273,7 +8383,7 @@
     "tag": "Una inyección diaria de GLP-1 más antigua. Menor pérdida de peso que la semaglutida, pero ya existe en versión genérica.",
     "what": "Un análogo sintético del GLP-1, la misma señal hormonal intestinal que copia la semaglutida, administrado como inyección diaria.",
     "claims": [
-     "Pérdida de peso",
+     "Bajar de peso",
      "Control del azúcar en sangre en la diabetes tipo 2"
     ],
     "evidence": "Sólida. En el ensayo SCALE de 56 semanas (3,731 adultos sin diabetes), 63.2% de quienes recibieron liraglutida 3.0 mg perdieron al menos 5% de su peso corporal frente a 27.1% con placebo; la diferencia promedio fue de alrededor de 5.6 kg.<sup class=\"cites\"><a class=\"cite\" href=\"#s35\" data-src=\"35\">35</a></sup>",
@@ -8346,7 +8456,7 @@
     "tag": "Agonista doble de glucagón + GLP-1 con resultados positivos de fase 3 en pérdida de peso. No aprobado.",
     "what": "Un péptido inyectable que activa los receptores de glucagón y de GLP-1, con el fin de reducir el apetito y aumentar el gasto de energía.",
     "claims": [
-     "Pérdida de peso",
+     "Bajar de peso",
      "Hígado graso (MASH)"
     ],
     "evidence": "Datos de fase 3. En SYNCHRONIZE-1, el peso bajó 12.2% (3.6 mg) y 13.0% (6.0 mg) a las 76 semanas frente a 5.4% con placebo.<sup class=\"cites\"><a class=\"cite\" href=\"#s48\" data-src=\"48\">48</a></sup> En SYNCHRONIZE-2 (755 adultos con obesidad/sobrepeso y diabetes tipo 2, NEJM, 5 de octubre de 2026), el peso bajó hasta 13.1% a las 76 semanas frente a 3.1% con placebo, con una reducción de la HbA1c de hasta 1.21 puntos (estimando de eficacia).<sup class=\"cites\"><a class=\"cite\" href=\"#s185\" data-src=\"185\">185</a></sup>",
@@ -8365,7 +8475,7 @@
     "tag": "Agonista doble de GLP-1 + glucagón probado en grandes ensayos en China. No aprobado en EE. UU.",
     "what": "Un péptido inyectable de una vez por semana que activa los receptores de GLP-1 y de glucagón.",
     "claims": [
-     "Pérdida de peso"
+     "Bajar de peso"
     ],
     "evidence": "Datos de fase 3. En GLORY-1 (610 adultos chinos), el peso bajó 11.0% (4 mg) y 14.0% (6 mg) a las 48 semanas frente a un aumento de 0.3% con placebo.<sup class=\"cites\"><a class=\"cite\" href=\"#s49\" data-src=\"49\">49</a></sup>",
     "reg": "No aprobado por la FDA; no se encontró aprobación en EE. UU.",
@@ -8382,7 +8492,7 @@
     "tag": "Análogo de amilina de acción prolongada. La mitad \"Cagri\" de CagriSema.",
     "what": "Un análogo de acción prolongada de la hormona amilina, que indica saciedad y hace más lento el vaciamiento del estómago.",
     "claims": [
-     "Pérdida de peso"
+     "Bajar de peso"
     ],
     "evidence": "Fase 2: en 26 semanas, el peso bajó 6.0–10.8% según la dosis frente a 3.0% con placebo; la dosis más alta superó a la liraglutida 3 mg (10.8% frente a 9.0%).<sup class=\"cites\"><a class=\"cite\" href=\"#s50\" data-src=\"50\">50</a></sup>",
     "reg": "En investigación por sí solo; no aprobado por la FDA.",
@@ -8398,7 +8508,7 @@
     "tag": "Combinación semanal de un análogo de amilina con semaglutida. Grandes resultados de fase 3; aún no aprobada.",
     "what": "Una combinación fija de cagrilintida (análogo de amilina) y semaglutida (GLP-1) administradas juntas.",
     "claims": [
-     "Pérdida de peso"
+     "Bajar de peso"
     ],
     "evidence": "Fase 3. En REDEFINE 1, el peso promedio bajó 20.4% a las 68 semanas frente a 3.0% con placebo.<sup class=\"cites\"><a class=\"cite\" href=\"#s51\" data-src=\"51\">51</a></sup>",
     "reg": "En investigación; no aprobada por la FDA al momento de esta actualización.",
@@ -8414,7 +8524,7 @@
     "tag": "Una sola molécula que actúa sobre los receptores de GLP-1 y de amilina. Resultados iniciales pero sorprendentes.",
     "what": "Un solo péptido diseñado para activar los receptores de GLP-1 y de amilina.",
     "claims": [
-     "Pérdida de peso"
+     "Bajar de peso"
     ],
     "evidence": "Fase temprana. En un ensayo de fase 1b/2a, la dosis más alta (60 mg) produjo una pérdida de peso de hasta 24.3% a las 36 semanas.<sup class=\"cites\"><a class=\"cite\" href=\"#s52\" data-src=\"52\">52</a></sup> Los ensayos fueron pequeños y cortos.",
     "reg": "En investigación; no aprobado por la FDA.",
@@ -8430,7 +8540,7 @@
     "tag": "El agonista selectivo del receptor de amilina de Lilly. Fase 2 sólida; fase 3 en curso.",
     "what": "Un agonista selectivo del receptor de amilina que se administra como inyección semanal.",
     "claims": [
-     "Pérdida de peso"
+     "Bajar de peso"
     ],
     "evidence": "Fase 2: pérdida de peso promedio de hasta alrededor de 20% a las 48 semanas.<sup class=\"cites\"><a class=\"cite\" href=\"#s53\" data-src=\"53\">53</a></sup> Se inició un programa de fase 3.<sup class=\"cites\"><a class=\"cite\" href=\"#s54\" data-src=\"54\">54</a></sup>",
     "reg": "En investigación; no aprobado por la FDA.",
@@ -8446,7 +8556,7 @@
     "tag": "Análogo de amilina de acción prolongada en alianza con Roche. Ya se planea la fase 3.",
     "what": "Un análogo de amilina de acción prolongada diseñado para dosificarse una vez por semana.",
     "claims": [
-     "Pérdida de peso"
+     "Bajar de peso"
     ],
     "evidence": "Fase temprana. En ensayos de fase 1, el peso bajó hasta 8.6% en 16 semanas; la vida media fue de unos 10 días.<sup class=\"cites\"><a class=\"cite\" href=\"#s55\" data-src=\"55\">55</a></sup> Hay un ensayo de fase 3 de Roche registrado.<sup class=\"cites\"><a class=\"cite\" href=\"#s56\" data-src=\"56\">56</a></sup>",
     "reg": "En investigación; no aprobado por la FDA.",
@@ -8463,7 +8573,7 @@
     "what": "Un péptido agonista doble de los receptores de GLP-1/glucagón.",
     "claims": [
      "Hígado graso (MASLD/MASH)",
-     "Pérdida de peso"
+     "Bajar de peso"
     ],
     "evidence": "En un estudio aleatorizado y controlado con placebo de 12 semanas en MASLD, la grasa hepática bajó 47–69% (relativo) y el peso corporal también bajó frente a placebo.<sup class=\"cites\"><a class=\"cite\" href=\"#s57\" data-src=\"57\">57</a></sup>",
     "reg": "En investigación; no aprobado por la FDA.",
@@ -8480,7 +8590,7 @@
     "what": "Un péptido agonista doble de GLP-1/glucagón estudiado en diabetes tipo 2 e hígado graso.",
     "claims": [
      "Azúcar en sangre",
-     "Pérdida de peso",
+     "Bajar de peso",
      "Hígado graso"
     ],
     "evidence": "Fase 2b (54 semanas): bajó la HbA1c y el peso corporal frente a placebo, pero las náuseas (35%) y los vómitos (17%) fueron frecuentes.<sup class=\"cites\"><a class=\"cite\" href=\"#s58\" data-src=\"58\">58</a></sup>",
@@ -8497,7 +8607,7 @@
     "tag": "Un agonista de GLP-1 \"sesgado\" con resultados de fase 3 en China.",
     "what": "Un agonista del receptor de GLP-1 diseñado para favorecer una vía de señalización (sesgado hacia cAMP).",
     "claims": [
-     "Pérdida de peso"
+     "Bajar de peso"
     ],
     "evidence": "Fase 3 en adultos chinos: pérdida de peso de 9.1–13.2% a las 40 semanas frente a un aumento de 0.1% con placebo.<sup class=\"cites\"><a class=\"cite\" href=\"#s59\" data-src=\"59\">59</a></sup>",
     "reg": "No aprobado por la FDA.",
@@ -8513,7 +8623,7 @@
     "tag": "Un agonista doble de GIP/GLP-1 (como la tirzepatida). Ya en fase 3.",
     "what": "Un agonista doble inyectable de los receptores de GLP-1/GIP.",
     "claims": [
-     "Pérdida de peso"
+     "Bajar de peso"
     ],
     "evidence": "Fase 2 (VENTURE): pérdida de peso de 9.1–14.7% a las 13 semanas frente a 1.7% con placebo.<sup class=\"cites\"><a class=\"cite\" href=\"#s60\" data-src=\"60\">60</a></sup> La fase 3 está en curso.<sup class=\"cites\"><a class=\"cite\" href=\"#s61\" data-src=\"61\">61</a></sup>",
     "reg": "En investigación; no aprobado por la FDA.",
@@ -8529,7 +8639,7 @@
     "tag": "El agonista doble de GLP-1/GIP de Roche, ya en fase 3 como enicepatida.",
     "what": "Un agonista doble de los receptores de GLP-1/GIP, de una vez por semana y con señalización sesgada.",
     "claims": [
-     "Pérdida de peso",
+     "Bajar de peso",
      "Azúcar en sangre"
     ],
     "evidence": "Datos clínicos iniciales: pérdida de peso de 4.7–8.0% al día 29 en personas con obesidad.<sup class=\"cites\"><a class=\"cite\" href=\"#s62\" data-src=\"62\">62</a></sup> Roche está realizando ensayos de fase 3.<sup class=\"cites\"><a class=\"cite\" href=\"#s63\" data-src=\"63\">63</a></sup>",
@@ -8547,7 +8657,7 @@
     "what": "Un agonista semanal del receptor de GLP-1 que se probó en fase 3 para la diabetes tipo 2.",
     "claims": [
      "Azúcar en sangre",
-     "Pérdida de peso"
+     "Bajar de peso"
     ],
     "evidence": "La fase 3 (T-emerge 2) encontró tasas inaceptables de náuseas y vómitos, además de reacciones en el sitio de inyección y reacciones alérgicas sistémicas; 49% de los pacientes desarrolló anticuerpos contra el fármaco.<sup class=\"cites\"><a class=\"cite\" href=\"#s64\" data-src=\"64\">64</a></sup>",
     "reg": "Nunca fue aprobado por la FDA; el informe de fase 3 consideró inaceptables sus náuseas, reacciones en el sitio de inyección y reacciones alérgicas.<sup class=\"cites\"><a class=\"cite\" href=\"#s64\" data-src=\"64\">64</a></sup>",
@@ -8563,7 +8673,7 @@
     "tag": "Un agonista de GLP-1 de acción ultraprolongada, ahora en ensayos de fase 3 de Pfizer.",
     "what": "Una inyección agonista del receptor de GLP-1 \"totalmente sesgada\" y de acción ultraprolongada.",
     "claims": [
-     "Pérdida de peso"
+     "Bajar de peso"
     ],
     "evidence": "Completó una fase 2b de 28 semanas (VESPER-1)<sup class=\"cites\"><a class=\"cite\" href=\"#s65\" data-src=\"65\">65</a></sup>; los ensayos de fase 3 están en curso.<sup class=\"cites\"><a class=\"cite\" href=\"#s66\" data-src=\"66\">66</a></sup> Todavía no se encontraron resultados revisados por pares.",
     "reg": "En investigación; no aprobado por la FDA.",
@@ -8579,7 +8689,7 @@
     "tag": "Un análogo de amilina de acción prolongada de Gubra, ahora propiedad de AbbVie. Etapa temprana.",
     "what": "Un análogo de amilina de acción prolongada en desarrollo para el control del peso.",
     "claims": [
-     "Pérdida de peso"
+     "Bajar de peso"
     ],
     "evidence": "Solo datos iniciales. Se completó un estudio de fase 1 en humanos por primera vez<sup class=\"cites\"><a class=\"cite\" href=\"#s67\" data-src=\"67\">67</a></sup> y un ensayo de fase 2 para determinar la dosis está reclutando participantes.<sup class=\"cites\"><a class=\"cite\" href=\"#s68\" data-src=\"68\">68</a></sup> No se encontraron resultados revisados por pares.",
     "reg": "En investigación; no aprobado por la FDA.",
@@ -8595,7 +8705,7 @@
     "tag": "Un agonista doble de GLP-1/GIP de China, ya en fase 3, incluso frente a semaglutida.",
     "what": "Un péptido sintético agonista doble de los receptores de GLP-1/GIP.",
     "claims": [
-     "Pérdida de peso"
+     "Bajar de peso"
     ],
     "evidence": "Primer estudio en humanos (90 adultos chinos sanos): después de cuatro dosis semanales, el peso bajó 6.7–9.6% frente a 1.4% con placebo.<sup class=\"cites\"><a class=\"cite\" href=\"#s69\" data-src=\"69\">69</a></sup> Los ensayos de fase 3 están en curso.<sup class=\"cites\"><a class=\"cite\" href=\"#s70\" data-src=\"70\">70</a></sup>",
     "reg": "En investigación; no aprobado por la FDA.",
@@ -8611,7 +8721,7 @@
     "tag": "Un agonista de GLP-1 experimental de una vez al mes, en fase 3.",
     "what": "Un agonista del receptor de GLP-1 de acción prolongada diseñado para dosificarse cada dos a cuatro semanas.",
     "claims": [
-     "Pérdida de peso"
+     "Bajar de peso"
     ],
     "evidence": "Fase 2 (reportado por la empresa, 303 adultos chinos): pérdida de peso de 10.6–14.4% a las 24 semanas frente a 2.4% con placebo.<sup class=\"cites\"><a class=\"cite\" href=\"#s71\" data-src=\"71\">71</a></sup> Hay un ensayo de fase 3 en curso.<sup class=\"cites\"><a class=\"cite\" href=\"#s72\" data-src=\"72\">72</a></sup>",
     "reg": "En investigación; no aprobado por la FDA.",
@@ -12014,7 +12124,7 @@
      "La protoporfiria eritropoyética, una enfermedad rara de sensibilidad a la luz",
      "El bronceado cosmético",
      "Libido",
-     "Pérdida de peso"
+     "Bajar de peso"
     ],
     "e": "Es un implante cada 2 meses aprobado solo para adultos con PPE.<sup class=\"cites\"><a class=\"cite\" href=\"#s89\" data-src=\"89\">89</a></sup>"
    },
@@ -12243,7 +12353,7 @@
     "o": [
      "La FDA no aprueba los suplementos antes de su venta",
      "Son medicamentos aprobados por la FDA",
-     "Están prohibidos",
+     "Están prohibidas",
      "Requieren receta"
     ],
     "e": "La FDA no aprueba los suplementos alimenticios antes de su venta.<sup class=\"cites\"><a class=\"cite\" href=\"#s27\" data-src=\"27\">27</a></sup>"
@@ -12312,7 +12422,7 @@
     "q": "¿Qué afirmación sobre el MGF / PEG-MGF es correcta?",
     "o": [
      "La FDA dice que no hay datos de exposición en humanos, y la AMA (WADA) lo prohíbe",
-     "Está aprobado por la FDA para lesiones de tendones",
+     "Está aprobado por la FDA para lesiones de tendón",
      "Es un cosmético",
      "Se comprobó en ensayos grandes"
     ],
@@ -12477,6 +12587,106 @@
      "Nada; siguen vigentes sin cambios"
     ],
     "e": "En noviembre de 2013, tras una readjudicación independiente del ensayo RECORD, la FDA concluyó que Avandia no mostraba un mayor riesgo de infarto frente a la metformina y las sulfonilureas, y exigió eliminar las restricciones.<sup class=\"cites\"><a class=\"cite\" href=\"#s222\" data-src=\"222\">222</a></sup>"
+   },
+   {
+    "q": "¿Qué es el TB-500?",
+    "o": [
+     "Un fragmento sintético de la timosina beta-4",
+     "Un medicamento de recuperación aprobado por la FDA",
+     "Otro nombre del BPC-157",
+     "Un péptido de cobre usado en cosmética"
+    ],
+    "e": "El TB-500 es un fragmento sintético corto (Ac-LKKTETQ) de la timosina beta-4, una proteína natural relacionada con la reparación de tejidos.<sup class=\"cites\"><a class=\"cite\" href=\"#s20\" data-src=\"20\">20</a></sup> No está aprobado por la FDA.<sup class=\"cites\"><a class=\"cite\" href=\"#s17\" data-src=\"17\">17</a></sup>"
+   },
+   {
+    "q": "¿Qué encontró una revisión de alcance de 2026 sobre el TB-500 para reparar tendones, músculos o huesos en personas?",
+    "o": [
+     "Ningún estudio en humanos que diera TB-4 o TB-500 para estos usos",
+     "Evidencia sólida de grandes ensayos en humanos",
+     "Un gran ensayo que mostró una curación más rápida",
+     "Está aprobado por la FDA para lesiones de tendón"
+    ],
+    "e": "La revisión no encontró estudios en humanos que dieran TB-4 o TB-500 para reparar tendones, ligamentos, músculos, huesos o cartílago; la evidencia en humanos es sobre todo de la proteína completa en usos oculares y cutáneos.<sup class=\"cites\"><a class=\"cite\" href=\"#s20\" data-src=\"20\">20</a></sup>"
+   },
+   {
+    "q": "¿Cómo es la evidencia en humanos sobre el GHK-Cu (péptido de cobre)?",
+    "o": [
+     "Sobre todo ensayos cosméticos pequeños, muchos vinculados a la industria",
+     "Grandes ensayos independientes con inyecciones",
+     "Ninguna, ni siquiera en laboratorio",
+     "Suficiente para que la FDA lo apruebe como medicamento"
+    ],
+    "e": "Hay mucha investigación en células y animales sobre el colágeno y la reparación de heridas, pero los estudios en humanos son sobre todo ensayos cosméticos pequeños, muchos vinculados a la industria.<sup class=\"cites\"><a class=\"cite\" href=\"#s22\" data-src=\"22\">22</a></sup> No hay ensayos grandes e independientes del GHK-Cu inyectado."
+   },
+   {
+    "q": "¿Cómo se venden en EE. UU. las cremas tópicas de GHK-Cu?",
+    "o": [
+     "Como cosméticos",
+     "Como medicamentos con receta aprobados por la FDA",
+     "Solo en farmacias de preparación magistral",
+     "Están prohibidas"
+    ],
+    "e": "Las cremas tópicas se venden como cosméticos. El GHK-Cu inyectable salió de la Categoría 2 de la FDA en abril de 2026 y está previsto que lo revise un comité asesor de la FDA.<sup class=\"cites\"><a class=\"cite\" href=\"#s17\" data-src=\"17\">17</a><span class=\"cite-sep\">,</span><a class=\"cite\" href=\"#s31\" data-src=\"31\">31</a></sup>"
+   },
+   {
+    "q": "¿Para qué está aprobado por la FDA el elamipretide (SS-31, vendido como Forzinity)?",
+    "o": [
+     "El síndrome de Barth, una enfermedad mitocondrial rara",
+     "Energía y longevidad en adultos sanos",
+     "Bajar de peso",
+     "Para nada; no está aprobado"
+    ],
+    "e": "La FDA otorgó una aprobación acelerada el 19 de septiembre de 2025 para el síndrome de Barth, basada en una mejor fuerza muscular de la rodilla; se exige un ensayo confirmatorio.<sup class=\"cites\"><a class=\"cite\" href=\"#s28\" data-src=\"28\">28</a></sup> No hay evidencia para su uso de \"bienestar\" en personas sanas."
+   },
+   {
+    "q": "¿Qué dijeron las cartas de advertencia de la FDA del 24 de agosto de 2026 sobre quienes venden SS-31 \"para investigación\"?",
+    "o": [
+     "Que distribuían un medicamento no aprobado",
+     "Que la etiqueta de investigación lo hace legal",
+     "Que el SS-31 es un suplemento dietético",
+     "Nada; no mencionaban el SS-31"
+    ],
+    "e": "Las cartas de advertencia de la FDA señalaron que quienes venden SS-31 \"para investigación\" distribuían un medicamento no aprobado.<sup class=\"cites\"><a class=\"cite\" href=\"#s13\" data-src=\"13\">13</a><span class=\"cite-sep\">,</span><a class=\"cite\" href=\"#s14\" data-src=\"14\">14</a></sup> El producto aprobado es Forzinity, solo para el síndrome de Barth.<sup class=\"cites\"><a class=\"cite\" href=\"#s28\" data-src=\"28\">28</a></sup>"
+   },
+   {
+    "q": "¿Qué dice la página de seguridad de preparación magistral de la FDA sobre la timosina alfa-1?",
+    "o": [
+     "Su nominación se retiró; la información de seguridad es insuficiente",
+     "Está aprobada para reforzar el sistema inmune",
+     "Está aprobada para la sepsis",
+     "Está autorizada para preparación magistral rutinaria"
+    ],
+    "e": "La timosina alfa-1 no está aprobada por la FDA. La página de la FDA la incluye entre las nominaciones retiradas y señala que la información de seguridad es insuficiente.<sup class=\"cites\"><a class=\"cite\" href=\"#s33\" data-src=\"33\">33</a></sup>"
+   },
+   {
+    "q": "En estudios en humanos, ¿qué hace la kisspeptina-10 en los hombres?",
+    "o": [
+     "Estimula con fuerza la LH y eleva la testosterona",
+     "Baja la testosterona",
+     "No tiene efecto hormonal",
+     "Sobre todo baja el azúcar en sangre"
+    ],
+    "e": "La kisspeptina-10 estimula con fuerza la LH en los hombres,<sup class=\"cites\"><a class=\"cite\" href=\"#s135\" data-src=\"135\">135</a></sup> y 12 días de infusiones diarias mantuvieron el aumento de LH y testosterona.<sup class=\"cites\"><a class=\"cite\" href=\"#s136\" data-src=\"136\">136</a></sup> No hay ensayos de uso prolongado para 'subir la testosterona'."
+   },
+   {
+    "q": "En el ensayo TRIUMPH-1 de Lilly, ¿cuánto peso perdieron aproximadamente las personas con la dosis de 12 mg de retatrutida?",
+    "o": [
+     "Alrededor del 28% a las 80 semanas",
+     "Alrededor del 5%",
+     "Alrededor del 50%",
+     "No más que con placebo"
+    ],
+    "e": "Lilly reportó una pérdida de peso promedio del 28.3% a las 80 semanas con la dosis de 12 mg en TRIUMPH-1.<sup class=\"cites\"><a class=\"cite\" href=\"#s34\" data-src=\"34\">34</a></sup> La retatrutida aún no está aprobada por la FDA.<sup class=\"cites\"><a class=\"cite\" href=\"#s10\" data-src=\"10\">10</a></sup>"
+   },
+   {
+    "q": "En el ensayo comparativo directo SURMOUNT-5, ¿cómo se comparó la tirzepatida con la semaglutida?",
+    "o": [
+     "Más pérdida de peso: 20.2% frente a 13.7%",
+     "Menos pérdida de peso que la semaglutida",
+     "Exactamente igual",
+     "El ensayo se detuvo por seguridad"
+    ],
+    "e": "La tirzepatida superó a la semaglutida en el ensayo directo SURMOUNT-5: 20.2% frente a 13.7% de pérdida de peso promedio.<sup class=\"cites\"><a class=\"cite\" href=\"#s3\" data-src=\"3\">3</a></sup>"
    }
   ],
   "NOTFDA": {
@@ -12697,7 +12907,6 @@
     "<strong>Not medical advice.</strong> Educational overview only — talk to a licensed clinician before starting, stopping, or buying any peptide.": "<strong>No es consejo médico.</strong> Solo es un resumen educativo: habla con un profesional de la salud con licencia antes de empezar, dejar o comprar cualquier péptido.",
     "<strong>Not medical advice.</strong> This app summarizes public research and regulatory documents for general education. It doesn't recommend any product, dose, or source. Regulatory status changes quickly — check FDA.gov for the latest.": "<strong>No es consejo médico.</strong> Esta app resume investigaciones públicas y documentos regulatorios con fines educativos generales. No recomienda ningún producto, dosis ni fuente. La situación regulatoria cambia rápido: consulta FDA.gov para lo más reciente.",
     "Built for Jose Guzman by Grok Bot · October 2026": "Creado para Jose Guzman por Grok Bot · octubre de 2026",
-    "Peptide Explorer": "Explorador de Péptidos",
     "Basics": "Conceptos",
     "Explore peptides": "Explorar péptidos",
     "Explore peptides →": "Explorar péptidos →",
@@ -12733,11 +12942,15 @@
     "4. Supplements &amp; cosmetics": "4. Suplementos y cosméticos",
     "Tap a card for the full breakdown. Tick \"Compare\" on up to three cards to see them side by side.": "Toca una tarjeta para ver el análisis completo. Marca \"Comparar\" en hasta tres tarjetas para verlas lado a lado.",
     "The peptides people are talking about right now — from blockbuster weight-loss drugs to \"biohacking\" injectables — sorted by what the evidence actually shows and where US regulators stand.": "Los péptidos de los que todo el mundo habla ahora mismo, desde los exitosos medicamentos para bajar de peso hasta los inyectables de \"biohacking\", ordenados según lo que realmente muestra la evidencia y la postura de los reguladores de EE. UU.",
-    "Not FDA-Approved": "No aprobado por la FDA"
+    "Not FDA-Approved": "No aprobado por la FDA",
+    "Contact": "Contacto",
+    "Contact: <a href=\"mailto:jose@cfpsresearch.com\">jose@cfpsresearch.com</a>": "Contacto: <a href=\"mailto:jose@cfpsresearch.com\">jose@cfpsresearch.com</a>",
+    "The Peptide Lab": "The Peptide Lab"
    },
    "04 // DISCERNMENT": "04 // CRITERIO",
    "05 // QUIZ": "05 // CUESTIONARIO",
-   "06 // SOURCES": "06 // FUENTES"
+   "06 // SOURCES": "06 // FUENTES",
+   "The Peptide Lab": "The Peptide Lab"
   },
   "STATIC": {
    "\"FDA-approved\" applies only to the specific approved product and use — not to every way people use that peptide.": "\"Aprobado por la FDA\" se aplica solo al producto y al uso específicos aprobados, no a todas las formas en que la gente usa ese péptido.",
@@ -12771,7 +12984,7 @@
    "Mostly animal data": "Mayormente datos en animales",
    "New round": "Nueva ronda",
    "Online vials labeled \"not for human use.\" FDA says that label doesn't protect sellers whose sites imply human use.<sup class=\"cites\"><a class=\"cite\" href=\"#s12\">12</a><span class=\"cite-sep\">,</span><a class=\"cite\" href=\"#s13\">13</a></sup>": "Viales en línea etiquetados \"no apto para uso humano\". La FDA dice que esa etiqueta no protege a los vendedores cuyos sitios dan a entender un uso humano.<sup class=\"cites\"><a class=\"cite\" href=\"#s12\">12</a><span class=\"cite-sep\">,</span><a class=\"cite\" href=\"#s13\">13</a></sup>",
-   "Peptide Explorer": "Explorador de Péptidos",
+   "The Peptide Lab": "The Peptide Lab",
    "Peptides": "Péptidos",
    "Peptides in plain words": "Péptidos en palabras sencillas",
    "Pick up to three peptides.": "Elige hasta tres péptidos.",
@@ -12792,7 +13005,9 @@
    "Usually injected": "Normalmente inyectados",
    "Why purity matters": "Por qué importa la pureza",
    "Why the buzz?": "¿Por qué tanto interés?",
-   "Not FDA-Approved": "No aprobado por la FDA"
+   "Not FDA-Approved": "No aprobado por la FDA",
+   "Contact": "Contacto",
+   "Contact: <a href=\"mailto:jose@cfpsresearch.com\">jose@cfpsresearch.com</a>": "Contacto: <a href=\"mailto:jose@cfpsresearch.com\">jose@cfpsresearch.com</a>"
   }
  }
 }
