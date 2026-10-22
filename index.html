@@ -2381,13 +2381,18 @@ function applyAppData(d){
   window.__dataSource="remote";
 }
 window.__dataSource="embedded";
-(async()=>{ if(window.__NO_REMOTE) return; try{
+/* DEEP LINK: #quiz or ?start=quiz -> fresh round, scroll to Quiz (below sticky nav), highlight Quiz tab. Runs after the remote data swap. */
+function wantsQuiz(){ return location.hash.toLowerCase()==="#quiz" || new URLSearchParams(location.search).get("start")==="quiz"; }
+function openQuizLink(){ if(!wantsQuiz()) return; newRound();
+  const go=()=>{ const el=document.getElementById("quiz"), nav=document.querySelector("nav.tabs"); scrollTo({top:el.getBoundingClientRect().top+scrollY-(nav?nav.offsetHeight:0)-8,behavior:"instant"}); links.forEach(l=>l.classList.toggle("active", l.getAttribute("href")==="#quiz")); };
+  go(); setTimeout(go,350); setTimeout(()=>{ go(); window.__deepLinked=true; },900); }
+(async()=>{ try{ if(window.__NO_REMOTE) return;
   const ac=new AbortController(); const tm=setTimeout(()=>ac.abort(),4000);
   const r=await fetch(DATA_URL+"?v="+Date.now(),{signal:ac.signal,cache:"no-store"}); clearTimeout(tm);
   if(!r.ok) return; const d=await r.json();
   if(JSON.stringify(d)===JSON.stringify(appDataSnapshot())){ window.__dataSource="remote(same)"; return; }
   applyAppData(d);
-}catch(e){ /* offline or bad data: keep embedded copy */ } })();
+}catch(e){ /* offline or bad data: keep embedded copy */ } finally{ openQuizLink(); } })();
 </script>
 </body>
 </html>
