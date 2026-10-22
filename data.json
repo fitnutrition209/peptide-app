@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "Updated October 21, 2026 · US focus",
+ "updated": "Updated October 22, 2026 · US focus",
  "SOURCES": {
   "1": {
    "t": "Wilding et al., Once-Weekly Semaglutide in Adults with Overweight or Obesity (STEP 1)",
@@ -1116,6 +1116,11 @@
    "t": "The Purdue Frederick Company and Top Executives Plead Guilty to Misbranding OxyContin",
    "p": "U.S. Attorney's Office, W.D. Virginia, May 10, 2007 (archived)",
    "u": "https://web.archive.org/web/20070712113217/http:/www.usdoj.gov/usao/vaw/press_releases/purdue_frederick_10may2007.html"
+  },
+  "225": {
+   "t": "Retatrutide Once Weekly for Treatment of Obstructive Sleep Apnea (TRIUMPH-1-OSA and TRIUMPH-2-OSA), published Oct 20, 2026",
+   "p": "New England Journal of Medicine",
+   "u": "https://www.nejm.org/doi/full/10.1056/NEJMoa2611477"
   }
  },
  "CATS": [
@@ -1213,7 +1218,7 @@
     "Diabetes control",
     "Knee-arthritis pain and sleep apnea (in obesity)"
    ],
-   "evidence": "Promising Phase 3 results, not yet FDA-reviewed. Lilly reported average 28.3% weight loss at 80 weeks on the 12 mg dose in TRIUMPH-1.<sup class=\"cites\"><a class=\"cite\" href=\"#s34\" data-src=\"34\">34</a></sup> In TRIUMPH-2 (people with obesity and type 2 diabetes), weight loss reached 20.8% at 80 weeks with A1C reductions of up to 1.6 points.<sup class=\"cites\"><a class=\"cite\" href=\"#s10\" data-src=\"10\">10</a><span class=\"cite-sep\">,</span><a class=\"cite\" href=\"#s11\" data-src=\"11\">11</a></sup>",
+   "evidence": "Promising Phase 3 results, not yet FDA-reviewed. Lilly reported average 28.3% weight loss at 80 weeks on the 12 mg dose in TRIUMPH-1.<sup class=\"cites\"><a class=\"cite\" href=\"#s34\" data-src=\"34\">34</a></sup> In TRIUMPH-2 (people with obesity and type 2 diabetes), weight loss reached 20.8% at 80 weeks with A1C reductions of up to 1.6 points.<sup class=\"cites\"><a class=\"cite\" href=\"#s10\" data-src=\"10\">10</a><span class=\"cite-sep\">,</span><a class=\"cite\" href=\"#s11\" data-src=\"11\">11</a></sup> In two Phase 3 sleep-apnea trials published in NEJM in October 2026, retatrutide 9 mg and 12 mg cut breathing interruptions (apnea-hypopnea index) by 24.4 and 21.9 more events per hour than placebo at 80 weeks in adults with obesity without diabetes, and by 14.4 and 15.1 more in adults with type 2 diabetes; the most common side effects were gastrointestinal.<sup class=\"cites\"><a class=\"cite\" href=\"#s225\" data-src=\"225\">225</a></sup>",
    "reg": "Not FDA-approved. Lilly plans to submit for US approval in Q1 2027.<sup class=\"cites\"><a class=\"cite\" href=\"#s10\" data-src=\"10\">10</a></sup> FDA has sent 2026 warning letters to websites selling \"research use only\" retatrutide, calling it an unapproved new drug.<sup class=\"cites\"><a class=\"cite\" href=\"#s12\" data-src=\"12\">12</a><span class=\"cite-sep\">,</span><a class=\"cite\" href=\"#s13\" data-src=\"13\">13</a><span class=\"cite-sep\">,</span><a class=\"cite\" href=\"#s14\" data-src=\"14\">14</a></sup>",
    "risks": [
     "Full safety profile hasn't been reviewed by FDA yet.",
@@ -1229,7 +1234,8 @@
     12,
     13,
     14,
-    34
+    34,
+    225
    ]
   },
   {
@@ -8119,7 +8125,7 @@
      "Control de la diabetes",
      "Dolor por artrosis de rodilla y apnea del sueño (en obesidad)"
     ],
-    "evidence": "Resultados prometedores de fase 3, aún sin revisión de la FDA. Lilly reportó una pérdida de peso promedio de 28.3% a las 80 semanas con la dosis de 12 mg en TRIUMPH-1.<sup class=\"cites\"><a class=\"cite\" href=\"#s34\" data-src=\"34\">34</a></sup> En TRIUMPH-2 (personas con obesidad y diabetes tipo 2), la pérdida de peso llegó a 20.8% a las 80 semanas, con reducciones de la A1C de hasta 1.6 puntos.<sup class=\"cites\"><a class=\"cite\" href=\"#s10\" data-src=\"10\">10</a><span class=\"cite-sep\">,</span><a class=\"cite\" href=\"#s11\" data-src=\"11\">11</a></sup>",
+    "evidence": "Resultados prometedores de fase 3, aún sin revisión de la FDA. Lilly reportó una pérdida de peso promedio de 28.3% a las 80 semanas con la dosis de 12 mg en TRIUMPH-1.<sup class=\"cites\"><a class=\"cite\" href=\"#s34\" data-src=\"34\">34</a></sup> En TRIUMPH-2 (personas con obesidad y diabetes tipo 2), la pérdida de peso llegó a 20.8% a las 80 semanas, con reducciones de la A1C de hasta 1.6 puntos.<sup class=\"cites\"><a class=\"cite\" href=\"#s10\" data-src=\"10\">10</a><span class=\"cite-sep\">,</span><a class=\"cite\" href=\"#s11\" data-src=\"11\">11</a></sup> En dos ensayos de fase 3 sobre apnea del sueño publicados en NEJM en octubre de 2026, retatrutida 9 mg y 12 mg redujo las interrupciones de la respiración (índice de apnea-hipopnea) en 24.4 y 21.9 eventos por hora más que el placebo a las 80 semanas en adultos con obesidad sin diabetes, y en 14.4 y 15.1 más en adultos con diabetes tipo 2; los efectos secundarios más comunes fueron gastrointestinales.<sup class=\"cites\"><a class=\"cite\" href=\"#s225\" data-src=\"225\">225</a></sup>",
     "reg": "No está aprobado por la FDA. Lilly planea solicitar la aprobación en EE. UU. en el primer trimestre de 2027.<sup class=\"cites\"><a class=\"cite\" href=\"#s10\" data-src=\"10\">10</a></sup> En 2026 la FDA envió cartas de advertencia a sitios web que venden retatrutida \"solo para uso en investigación\", y la calificó como un medicamento nuevo no aprobado.<sup class=\"cites\"><a class=\"cite\" href=\"#s12\" data-src=\"12\">12</a><span class=\"cite-sep\">,</span><a class=\"cite\" href=\"#s13\" data-src=\"13\">13</a><span class=\"cite-sep\">,</span><a class=\"cite\" href=\"#s14\" data-src=\"14\">14</a></sup>",
     "risks": [
      "La FDA todavía no ha revisado su perfil de seguridad completo.",
