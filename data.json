@@ -1131,6 +1131,36 @@
    "t": "Ashraf et al., Safety and Risk Assessment of No-Prescription Online Semaglutide Purchases",
    "p": "JAMA Network Open, 2024",
    "u": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2821882"
+  },
+  "228": {
+   "t": "Wouters, McKee & Luyten, Estimated Research and Development Investment Needed to Bring a New Medicine to Market, 2009-2018",
+   "p": "JAMA, 2020 (PubMed)",
+   "u": "https://pubmed.ncbi.nlm.nih.gov/32125404/"
+  },
+  "229": {
+   "t": "DiMasi, Grabowski & Hansen, Innovation in the pharmaceutical industry: New estimates of R&D costs",
+   "p": "Journal of Health Economics, 2016 (PubMed)",
+   "u": "https://pubmed.ncbi.nlm.nih.gov/26928437/"
+  },
+  "230": {
+   "t": "Association for Molecular Pathology v. Myriad Genetics, Inc., 569 U.S. 576 (2013)",
+   "p": "US Supreme Court (Cornell LII)",
+   "u": "https://www.law.cornell.edu/supremecourt/text/12-398"
+  },
+  "231": {
+   "t": "Orange Book: Ozempic (semaglutide), NDA 209637 — patents and exclusivity",
+   "p": "US FDA",
+   "u": "https://www.accessdata.fda.gov/scripts/cder/ob/results_product.cfm?Appl_Type=N&Appl_No=209637"
+  },
+  "232": {
+   "t": "Orange Book: Mounjaro (tirzepatide), NDA 215866 — patents and exclusivity",
+   "p": "US FDA",
+   "u": "https://www.accessdata.fda.gov/scripts/cder/ob/results_product.cfm?Appl_Type=N&Appl_No=215866"
+  },
+  "233": {
+   "t": "Frequently Asked Questions on Patents and Exclusivity",
+   "p": "US FDA",
+   "u": "https://www.fda.gov/drugs/development-approval-process-drugs/frequently-asked-questions-patents-and-exclusivity"
   }
  },
  "CATS": [
@@ -12916,7 +12946,6 @@
    "__STATIC_OVERRIDES__": {
     "<strong>Not medical advice.</strong> Educational overview only — talk to a licensed clinician before starting, stopping, or buying any peptide.": "<strong>No es consejo médico.</strong> Solo es un resumen educativo: habla con un profesional de la salud con licencia antes de empezar, dejar o comprar cualquier péptido.",
     "<strong>Not medical advice.</strong> This app summarizes public research and regulatory documents for general education. It doesn't recommend any product, dose, or source. Regulatory status changes quickly — check FDA.gov for the latest.": "<strong>No es consejo médico.</strong> Esta app resume investigaciones públicas y documentos regulatorios con fines educativos generales. No recomienda ningún producto, dosis ni fuente. La situación regulatoria cambia rápido: consulta FDA.gov para lo más reciente.",
-    "Built for Jose Guzman by Grok Bot · October 2026": "Creado para Jose Guzman por Grok Bot · octubre de 2026",
     "Basics": "Conceptos",
     "Explore peptides": "Explorar péptidos",
     "Explore peptides →": "Explorar péptidos →",
@@ -13022,7 +13051,6 @@
    "A peptide is a short chain of amino acids — the same building blocks that make up proteins, just fewer of them. Your body makes thousands of peptides that act as messengers (insulin is a famous one). Drug makers copy or tweak them to switch specific signals on or off.": "Un péptido es una cadena corta de aminoácidos, los mismos bloques que forman las proteínas, solo que en menor cantidad. Tu cuerpo produce miles de péptidos que actúan como mensajeros (la insulina es uno famoso). Las farmacéuticas los copian o modifican para activar o desactivar señales específicas.",
    "Anecdotal": "Anecdótico",
    "Basics": "Conceptos",
-   "Built for Jose Guzman by Grok Bot · October 2026": "Creado para Jose Guzman por Grok Bot · octubre de 2026",
    "Clinical trials": "Ensayos clínicos",
    "Collagen powders, copper-peptide serums. FDA doesn't approve supplements before they're sold.<a class=\"cite\" href=\"#s27\">27</a>": "Colágeno en polvo, sueros de péptidos de cobre. La FDA no aprueba los suplementos antes de su venta.<a class=\"cite\" href=\"#s27\">27</a>",
    "Compare": "Comparar",
