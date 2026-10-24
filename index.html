@@ -2459,9 +2459,19 @@ function applyAppData(d){
 window.__dataSource="embedded";
 /* DEEP LINK: #quiz or ?start=quiz -> fresh round, scroll to Quiz (below sticky nav), highlight Quiz tab. Runs after the remote data swap. */
 function wantsQuiz(){ return location.hash.toLowerCase()==="#quiz" || new URLSearchParams(location.search).get("start")==="quiz"; }
-function openQuizLink(){ if(!wantsQuiz()) return; newRound();
+let __qlRound=false,__qlUser=false,__qlUntil=0;
+["touchstart","wheel","keydown","mousedown"].forEach(ev=>addEventListener(ev,()=>{__qlUser=true},{passive:true,capture:true}));
+if("scrollRestoration" in history && wantsQuiz()) history.scrollRestoration="manual";
+function openQuizLink(force){ if(!wantsQuiz()) return; if(!__qlRound){ newRound(); __qlRound=true; }
+  if(force){ __qlUser=false; }
   const go=()=>{ const el=document.getElementById("quiz"), nav=document.querySelector("nav.tabs"); scrollTo({top:el.getBoundingClientRect().top+scrollY-(nav&&getComputedStyle(nav).position==="sticky"?nav.offsetHeight:0)-8,behavior:"instant"}); links.forEach(l=>l.classList.toggle("active", l.getAttribute("href")==="#quiz")); };
-  go(); setTimeout(go,350); setTimeout(()=>{ go(); window.__deepLinked=true; },900); }
+  const tick=()=>{ if(__qlUser||Date.now()>__qlUntil) return; go(); };
+  __qlUntil=Math.max(__qlUntil,Date.now()+6000);
+  go(); [100,350,700,1200,2000,3000,4500,6000].forEach(t=>setTimeout(tick,t)); setTimeout(()=>{ window.__deepLinked=true; },900); }
+/* run early too (don't wait for the remote data fetch), and again after fonts/images/bfcache restores */
+if(wantsQuiz()){ if(document.readyState==="loading") document.addEventListener("DOMContentLoaded",()=>openQuizLink()); else setTimeout(()=>openQuizLink(),0);
+  addEventListener("load",()=>openQuizLink()); if(document.fonts&&document.fonts.ready) document.fonts.ready.then(()=>openQuizLink());
+  addEventListener("pageshow",ev=>{ if(ev.persisted) openQuizLink(true); }); }
 (async()=>{ try{ if(window.__NO_REMOTE) return;
   const ac=new AbortController(); const tm=setTimeout(()=>ac.abort(),4000);
   const r=await fetch(DATA_URL+"?v="+Date.now(),{signal:ac.signal,cache:"no-store"}); clearTimeout(tm);
