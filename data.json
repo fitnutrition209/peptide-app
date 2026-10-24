@@ -3755,54 +3755,48 @@
   },
   "retatrutide": {
    "type": "trial",
-   "short": "Trial doses: 1–12 mg weekly",
    "src": [
     173
    ],
-   "html": "Phase 2 (48 weeks): 1, 4, 8 or 12 mg by subcutaneous injection once weekly, some arms starting at 2 mg; side effects were partly reduced with a lower starting dose.<sup class=\"cites\"><a class=\"cite\" href=\"#s173\" data-src=\"173\">173</a></sup>"
+   "locked": 1
   },
   "bpc157": {
    "type": "none",
-   "short": "No established human dose",
    "src": [
     33
    ],
-   "html": "No established or tested human dose exists; FDA has not approved it for any use. A community protocol from researchcfps.com is shown below for education only; it is not a tested or approved dose. FDA says it has identified no or only limited safety information for proposed routes and lacks enough information to know whether it would cause harm in humans.<sup class=\"cites\"><a class=\"cite\" href=\"#s33\" data-src=\"33\">33</a></sup>"
+   "locked": 1
   },
   "tb500": {
    "type": "none",
-   "short": "No established human dose",
    "src": [
     33
    ],
-   "html": "No established or tested human dose exists; FDA has not approved it for any use. A community protocol from researchcfps.com is shown below for education only; it is not a tested or approved dose. FDA says it has not identified any human exposure data for TB-500.<sup class=\"cites\"><a class=\"cite\" href=\"#s33\" data-src=\"33\">33</a></sup>"
+   "locked": 1
   },
   "ghkcu": {
    "type": "none",
-   "short": "No established injected dose",
    "src": [
     33
    ],
-   "html": "GHK-Cu is sold in cosmetic serums, but there is no established or tested dose for injected use. For injectable GHK-Cu, FDA notes immunogenicity concerns and limited human safety data.<sup class=\"cites\"><a class=\"cite\" href=\"#s33\" data-src=\"33\">33</a></sup> A community protocol from researchcfps.com is shown below for education only; it is not a tested or approved dose."
+   "locked": 1
   },
   "cjcipa": {
    "type": "none",
-   "short": "No established dose; FDA safety flags",
    "src": [
     33,
     174,
     175
    ],
-   "html": "No established or approved dose for the combination; a community protocol from researchcfps.com is shown below for education only. For reference only, small studies used: CJC-1295 single or repeated subcutaneous doses, best tolerated at 30 or 60 µg/kg, in healthy adults<sup class=\"cites\"><a class=\"cite\" href=\"#s174\" data-src=\"174\">174</a></sup>; ipamorelin 0.03 mg/kg IV twice daily for up to 7 days after bowel surgery.<sup class=\"cites\"><a class=\"cite\" href=\"#s175\" data-src=\"175\">175</a></sup> FDA cites serious adverse events with CJC-1295 (increased heart rate, vasodilatory reaction) and serious adverse events including death with IV ipamorelin.<sup class=\"cites\"><a class=\"cite\" href=\"#s33\" data-src=\"33\">33</a></sup>"
+   "locked": 1
   },
   "collagen": {
    "type": "trial",
-   "short": "Trial doses varied (oral)",
    "src": [
     25,
     26
    ],
-   "html": "Oral collagen products have been tested at various daily amounts; the meta-analyses cited here don't support a single standard dose.<sup class=\"cites\"><a class=\"cite\" href=\"#s25\" data-src=\"25\">25</a><span class=\"cite-sep\">,</span><a class=\"cite\" href=\"#s26\" data-src=\"26\">26</a></sup>"
+   "locked": 1
   },
   "ss31": {
    "type": "label",
@@ -3856,190 +3850,167 @@
   },
   "survodutide": {
    "type": "trial",
-   "short": "Trial doses: up to 3.6 or 6.0 mg weekly",
    "src": [
     48
    ],
-   "html": "SYNCHRONIZE-1: subcutaneous injection once weekly, adjusted up to 3.6 mg or 6.0 mg, for 76 weeks.<sup class=\"cites\"><a class=\"cite\" href=\"#s48\" data-src=\"48\">48</a></sup>"
+   "locked": 1
   },
   "mazdutide": {
    "type": "trial",
-   "short": "Trial doses: 4 or 6 mg weekly",
    "src": [
     49
    ],
-   "html": "GLORY-1: 4 mg or 6 mg once weekly for 48 weeks.<sup class=\"cites\"><a class=\"cite\" href=\"#s49\" data-src=\"49\">49</a></sup>"
+   "locked": 1
   },
   "cagrilintide": {
    "type": "trial",
-   "short": "Trial doses: 0.3–4.5 mg weekly",
    "src": [
     50
    ],
-   "html": "Phase 2: 0.3, 0.6, 1.2, 2.4 or 4.5 mg subcutaneously once weekly for 26 weeks.<sup class=\"cites\"><a class=\"cite\" href=\"#s50\" data-src=\"50\">50</a></sup>"
+   "locked": 1
   },
   "cagrisema": {
    "type": "trial",
-   "short": "Trial doses: 2.4 mg + 2.4 mg weekly",
    "src": [
     51
    ],
-   "html": "REDEFINE 1: cagrilintide 2.4 mg plus semaglutide 2.4 mg once weekly for 68 weeks.<sup class=\"cites\"><a class=\"cite\" href=\"#s51\" data-src=\"51\">51</a></sup>"
+   "locked": 1
   },
   "amycretin": {
    "type": "trial",
-   "short": "Trial doses: up to 60 mg weekly",
    "src": [
     52
    ],
-   "html": "Phase 1b/2a: once-weekly subcutaneous doses escalated up to 60 mg (36 weeks), or to maintenance doses of 20 mg, 5 mg or 1.25 mg.<sup class=\"cites\"><a class=\"cite\" href=\"#s52\" data-src=\"52\">52</a></sup>"
+   "locked": 1
   },
   "eloralintide": {
    "type": "trial",
-   "short": "Trial doses: 1–9 mg weekly",
    "src": [
     53
    ],
-   "html": "Phase 2: 1, 3, 6 or 9 mg subcutaneously once weekly, or escalations of 3→9 mg and 6→9 mg, for 48 weeks.<sup class=\"cites\"><a class=\"cite\" href=\"#s53\" data-src=\"53\">53</a></sup>"
+   "locked": 1
   },
   "petrelintide": {
    "type": "trial",
-   "short": "Trial doses: 0.6–9.0 mg weekly",
    "src": [
     55
    ],
-   "html": "Phase 1: 0.6 or 1.2 mg once weekly for 6 doses, or 16 weekly doses escalated every 2 weeks to 2.4, 4.8 or 9.0 mg.<sup class=\"cites\"><a class=\"cite\" href=\"#s55\" data-src=\"55\">55</a></sup>"
+   "locked": 1
   },
   "pemvidutide": {
    "type": "trial",
-   "short": "Trial doses: 1.2–2.4 mg weekly",
    "src": [
     57
    ],
-   "html": "1.2, 1.8 or 2.4 mg subcutaneously once weekly for 12 weeks.<sup class=\"cites\"><a class=\"cite\" href=\"#s57\" data-src=\"57\">57</a></sup>"
+   "locked": 1
   },
   "cotadutide": {
    "type": "trial",
-   "short": "Trial doses: 100–300 µg",
    "src": [
     58
    ],
-   "html": "Phase 2b: 100, 200 or 300 µg by subcutaneous injection, with HbA1c and weight assessed to 54 weeks.<sup class=\"cites\"><a class=\"cite\" href=\"#s58\" data-src=\"58\">58</a></sup>"
+   "locked": 1
   },
   "ecnoglutide": {
    "type": "trial",
-   "short": "Trial doses: 1.2–2.4 mg weekly",
    "src": [
     59
    ],
-   "html": "Phase 3: 1.2, 1.8 or 2.4 mg subcutaneously once weekly for 40 weeks.<sup class=\"cites\"><a class=\"cite\" href=\"#s59\" data-src=\"59\">59</a></sup>"
+   "locked": 1
   },
   "vk2735": {
    "type": "trial",
-   "short": "Trial doses: 2.5–15 mg weekly",
    "src": [
     60
    ],
-   "html": "VENTURE: once-weekly subcutaneous doses from 2.5 mg to 15 mg for 13 weeks.<sup class=\"cites\"><a class=\"cite\" href=\"#s60\" data-src=\"60\">60</a></sup>"
+   "locked": 1
   },
   "ct388": {
    "type": "trial",
-   "short": "Trial doses: 5–12 mg weekly ×4",
    "src": [
     62
    ],
-   "html": "Phase 1: single doses of 0.5–7.5 mg, or 4 once-weekly doses of 5–12 mg, subcutaneously.<sup class=\"cites\"><a class=\"cite\" href=\"#s62\" data-src=\"62\">62</a></sup>"
+   "locked": 1
   },
   "taspoglutide": {
    "type": "trial",
-   "short": "Trial doses: 10 or 20 mg weekly",
    "src": [
     64
    ],
-   "html": "T-emerge 2: 10 mg or 20 mg subcutaneously once weekly.<sup class=\"cites\"><a class=\"cite\" href=\"#s64\" data-src=\"64\">64</a></sup>"
+   "locked": 1
   },
   "berobenatide": {
    "type": "trial",
-   "short": "Trial doses: weekly; mg not disclosed",
    "src": [
     65,
     66
    ],
-   "html": "Phase 2b VESPER-1: four dose levels given subcutaneously once weekly without titration<sup class=\"cites\"><a class=\"cite\" href=\"#s65\" data-src=\"65\">65</a></sup>; phase 3 uses three subcutaneous dose arms.<sup class=\"cites\"><a class=\"cite\" href=\"#s66\" data-src=\"66\">66</a></sup> The registry entries don't state the mg amounts."
+   "locked": 1
   },
   "gubamy": {
    "type": "trial",
-   "short": "Trial doses: not disclosed",
    "src": [
     67,
     68
    ],
-   "html": "Phase 1: single, then multiple, subcutaneous doses (5 mg/mL solution)<sup class=\"cites\"><a class=\"cite\" href=\"#s67\" data-src=\"67\">67</a></sup>; phase 2 escalates six arms to maintenance doses.<sup class=\"cites\"><a class=\"cite\" href=\"#s68\" data-src=\"68\">68</a></sup> The registry entries don't state the mg amounts."
+   "locked": 1
   },
   "ribupatide": {
    "type": "trial",
-   "short": "Trial doses: up to 5.4 mg weekly ×4",
    "src": [
     69
    ],
-   "html": "First-in-human: single doses of 0.1–8.1 mg, and 4 once-weekly subcutaneous doses up to 5.4 mg.<sup class=\"cites\"><a class=\"cite\" href=\"#s69\" data-src=\"69\">69</a></sup>"
+   "locked": 1
   },
   "zovaglutide": {
    "type": "trial",
-   "short": "Trial doses: 80–160 mg every 2–4 weeks",
    "src": [
     71,
     72
    ],
-   "html": "Phase 2 (company-reported): 80 mg or 160 mg subcutaneously every 4 weeks or every 2 weeks, for 24 weeks<sup class=\"cites\"><a class=\"cite\" href=\"#s71\" data-src=\"71\">71</a></sup>; phase 3 doses are given every 4 weeks.<sup class=\"cites\"><a class=\"cite\" href=\"#s72\" data-src=\"72\">72</a></sup>"
+   "locked": 1
   },
   "aod9604": {
    "type": "none",
-   "short": "No established human dose",
    "src": [
     33
    ],
-   "html": "No established or tested human dose exists; FDA has not approved it for any use. A community protocol from researchcfps.com is shown below for education only; it is not a tested or approved dose. FDA reports little or no safety information and serious adverse events that may be associated.<sup class=\"cites\"><a class=\"cite\" href=\"#s33\" data-src=\"33\">33</a></sup>"
+   "locked": 1
   },
   "motsc": {
    "type": "none",
-   "short": "No established human dose",
    "src": [
     33
    ],
-   "html": "No established or tested human dose exists; FDA has not approved it for any use. A community protocol from researchcfps.com is shown below for education only; it is not a tested or approved dose. FDA says it has no human exposure data.<sup class=\"cites\"><a class=\"cite\" href=\"#s33\" data-src=\"33\">33</a></sup>"
+   "locked": 1
   },
   "adipotide": {
    "type": "none",
-   "short": "No established human dose",
    "src": [
     76
    ],
-   "html": "No established or tested human dose exists; FDA has not approved it for any use. A community protocol from researchcfps.com is shown below for education only; it is not a tested or approved dose. Data are from monkeys only.<sup class=\"cites\"><a class=\"cite\" href=\"#s76\" data-src=\"76\">76</a></sup>"
+   "locked": 1
   },
   "kpv": {
    "type": "none",
-   "short": "No established human dose",
    "src": [
     33
    ],
-   "html": "No established or tested human dose exists; FDA has not approved it for any use. A community protocol from researchcfps.com is shown below for education only; it is not a tested or approved dose. FDA says it has no human exposure data.<sup class=\"cites\"><a class=\"cite\" href=\"#s33\" data-src=\"33\">33</a></sup>"
+   "locked": 1
   },
   "ll37": {
    "type": "trial",
-   "short": "Trial doses: topical 0.5–3.2 mg/mL",
    "src": [
     78
    ],
-   "html": "Topical on venous leg ulcers: 0.5, 1.6 or 3.2 mg/mL (lower two showed benefit in the 2014 trial).<sup class=\"cites\"><a class=\"cite\" href=\"#s78\" data-src=\"78\">78</a></sup> No injected dose has been tested in trials."
+   "locked": 1
   },
   "mgf": {
    "type": "none",
-   "short": "No established human dose",
    "src": [
     33
    ],
-   "html": "No established or tested human dose exists; FDA has not approved it for any use. A community protocol from researchcfps.com is shown below for education only; it is not a tested or approved dose. FDA says it has no human exposure data for PEG-MGF.<sup class=\"cites\"><a class=\"cite\" href=\"#s33\" data-src=\"33\">33</a></sup>"
+   "locked": 1
   },
   "tesamorelin": {
    "type": "label",
@@ -4060,19 +4031,17 @@
   },
   "hexarelin": {
    "type": "none",
-   "short": "No established human dose",
    "src": [
     86
    ],
-   "html": "No established or tested human dose exists; FDA has not approved it for any use. A community protocol from researchcfps.com is shown below for education only; it is not a tested or approved dose. Reviews describe few rigorous studies and unknown long-term safety.<sup class=\"cites\"><a class=\"cite\" href=\"#s86\" data-src=\"86\">86</a></sup>"
+   "locked": 1
   },
   "ghrp6": {
    "type": "none",
-   "short": "No established human dose",
    "src": [
     33
    ],
-   "html": "No established or tested human dose exists; FDA has not approved it for any use. A community protocol from researchcfps.com is shown below for education only; it is not a tested or approved dose. FDA keeps it on its Category 2 list, citing immunogenicity, cortisol effects and higher blood glucose.<sup class=\"cites\"><a class=\"cite\" href=\"#s33\" data-src=\"33\">33</a></sup>"
+   "locked": 1
   },
   "afamelanotide": {
    "type": "label",
@@ -4084,133 +4053,117 @@
   },
   "melanotan2": {
    "type": "none",
-   "short": "No established human dose",
    "src": [
     33
    ],
-   "html": "No established or tested human dose exists; FDA has not approved it for any use. A community protocol from researchcfps.com is shown below for education only; it is not a tested or approved dose. FDA cites case reports of melanoma, PRES, sympathomimetic toxidrome and priapism.<sup class=\"cites\"><a class=\"cite\" href=\"#s33\" data-src=\"33\">33</a></sup>"
+   "locked": 1
   },
   "argireline": {
    "type": "trial",
-   "short": "Trial use: cream twice daily",
    "src": [
     93
    ],
-   "html": "In the 21-person crow's-feet trial, the cream was applied twice daily around the eyes; the abstract doesn't state the concentration.<sup class=\"cites\"><a class=\"cite\" href=\"#s93\" data-src=\"93\">93</a></sup>"
+   "locked": 1
   },
   "matrixyl": {
    "type": "trial",
-   "short": "Trial use: cream twice daily",
    "src": [
     93
    ],
-   "html": "In the 21-person crow's-feet trial, the cream was applied twice daily around the eyes; the abstract doesn't state the concentration.<sup class=\"cites\"><a class=\"cite\" href=\"#s93\" data-src=\"93\">93</a></sup>"
+   "locked": 1
   },
   "os01": {
    "type": "trial",
-   "short": "Topical; concentration not reported",
    "src": [
     96
    ],
-   "html": "Tested as a topical skincare formulation; the published abstract doesn't state a concentration.<sup class=\"cites\"><a class=\"cite\" href=\"#s96\" data-src=\"96\">96</a></sup>"
+   "locked": 1
   },
   "semax": {
    "type": "none",
-   "short": "No established human dose",
    "src": [
     33,
     97
    ],
-   "html": "No established or tested human dose exists; FDA has not approved it for any use. A community protocol from researchcfps.com is shown below for education only; it is not a tested or approved dose. FDA says it has no or limited safety information.<sup class=\"cites\"><a class=\"cite\" href=\"#s33\" data-src=\"33\">33</a></sup> Small Russian studies exist, but their abstracts don't give doses we could verify.<sup class=\"cites\"><a class=\"cite\" href=\"#s97\" data-src=\"97\">97</a></sup>"
+   "locked": 1
   },
   "selank": {
    "type": "none",
-   "short": "No established human dose",
    "src": [
     33
    ],
-   "html": "No established or tested human dose exists; FDA has not approved it for any use. A community protocol from researchcfps.com is shown below for education only; it is not a tested or approved dose. FDA says it lacks important safety information.<sup class=\"cites\"><a class=\"cite\" href=\"#s33\" data-src=\"33\">33</a></sup>"
+   "locked": 1
   },
   "dihexa": {
    "type": "none",
-   "short": "No established human dose",
    "src": [
     33
    ],
-   "html": "No established or tested human dose exists; FDA has not approved it for any use. A community protocol from researchcfps.com is shown below for education only; it is not a tested or approved dose. FDA says it has no human exposure data by any route.<sup class=\"cites\"><a class=\"cite\" href=\"#s33\" data-src=\"33\">33</a></sup>"
+   "locked": 1
   },
   "dsip": {
    "type": "none",
-   "short": "No established dose (one small study)",
    "src": [
     33,
     100
    ],
-   "html": "No established or approved dose. For reference only: the 1992 insomnia study gave 25 nmol/kg IV on three afternoons and found no major benefit.<sup class=\"cites\"><a class=\"cite\" href=\"#s100\" data-src=\"100\">100</a></sup> FDA says it has no safety information for the proposed route.<sup class=\"cites\"><a class=\"cite\" href=\"#s33\" data-src=\"33\">33</a></sup>"
+   "locked": 1
   },
   "pe2228": {
    "type": "none",
-   "short": "No established human dose",
    "src": [
     101
    ],
-   "html": "No established or tested human dose exists; FDA has not approved it for any use. A community protocol from researchcfps.com is shown below for education only; it is not a tested or approved dose. Data are from mice only.<sup class=\"cites\"><a class=\"cite\" href=\"#s101\" data-src=\"101\">101</a></sup>"
+   "locked": 1
   },
   "humanin": {
    "type": "none",
-   "short": "No established human dose",
    "src": [
     102
    ],
-   "html": "No established or tested human dose exists; FDA has not approved it for any use. We don't list community, vendor or 'protocol' amounts. Research is cell and animal only.<sup class=\"cites\"><a class=\"cite\" href=\"#s102\" data-src=\"102\">102</a></sup>"
+   "locked": 1
   },
   "davunetide": {
    "type": "trial",
-   "short": "Trial doses: 30 mg nasal twice daily",
    "src": [
     103
    ],
-   "html": "Phase 2/3 in PSP: 30 mg intranasally twice daily for 52 weeks (not effective).<sup class=\"cites\"><a class=\"cite\" href=\"#s103\" data-src=\"103\">103</a></sup>"
+   "locked": 1
   },
   "rapastinel": {
    "type": "trial",
-   "short": "Trial doses: single IV 1–30 mg/kg",
    "src": [
     104
    ],
-   "html": "Proof-of-concept: a single IV dose of 1, 5, 10 or 30 mg/kg; 5 and 10 mg/kg reduced symptoms for about a week.<sup class=\"cites\"><a class=\"cite\" href=\"#s104\" data-src=\"104\">104</a></sup>"
+   "locked": 1
   },
   "nemifitide": {
    "type": "trial",
-   "short": "Trial doses: 30–45 mg/day ×2 wks",
    "src": [
     106
    ],
-   "html": "30 mg/day or 45 mg/day by subcutaneous injection, 5 days a week for 2 weeks.<sup class=\"cites\"><a class=\"cite\" href=\"#s106\" data-src=\"106\">106</a></sup>"
+   "locked": 1
   },
   "npy": {
    "type": "trial",
-   "short": "Trial doses: single 1.4–9.6 mg nasal",
    "src": [
     107
    ],
-   "html": "Single intranasal doses of 1.4 to 9.6 mg in a dose-ranging PTSD study.<sup class=\"cites\"><a class=\"cite\" href=\"#s107\" data-src=\"107\">107</a></sup>"
+   "locked": 1
   },
   "cerebrolysin": {
    "type": "trial",
-   "short": "Trial regimen: e.g., 30 mL daily ×10 days",
    "src": [
     108
    ],
-   "html": "Stroke trials used daily regimens such as 30 mL a day for 10 days; a Cochrane review found the increase in non-fatal serious adverse events more prominent with that 30 mL × 10-day schedule.<sup class=\"cites\"><a class=\"cite\" href=\"#s108\" data-src=\"108\">108</a></sup>"
+   "locked": 1
   },
   "brimapitide": {
    "type": "trial",
-   "short": "Trial doses: single 0.4–0.8 mg/mL ear injection",
    "src": [
     110
    ],
-   "html": "Phase 3: a single intratympanic (through the eardrum) injection of 0.4 or 0.8 mg/mL.<sup class=\"cites\"><a class=\"cite\" href=\"#s110\" data-src=\"110\">110</a></sup>"
+   "locked": 1
   },
   "ziconotide": {
    "type": "label",
@@ -4222,85 +4175,75 @@
   },
   "pinealon": {
    "type": "none",
-   "short": "No established human dose",
    "src": [
     114
    ],
-   "html": "No established or tested human dose exists; FDA has not approved it for any use. A community protocol from researchcfps.com is shown below for education only; it is not a tested or approved dose. The small Russian human study abstract doesn't give a dose.<sup class=\"cites\"><a class=\"cite\" href=\"#s114\" data-src=\"114\">114</a></sup>"
+   "locked": 1
   },
   "ara290": {
    "type": "trial",
-   "short": "Trial doses: 2–4 mg",
    "src": [
     115,
     116
    ],
-   "html": "Pilot trials: 2 mg IV three times weekly (sarcoidosis)<sup class=\"cites\"><a class=\"cite\" href=\"#s115\" data-src=\"115\">115</a></sup>; 4 mg subcutaneously daily for 28 days (type 2 diabetes).<sup class=\"cites\"><a class=\"cite\" href=\"#s116\" data-src=\"116\">116</a></sup>"
+   "locked": 1
   },
   "dermorphin": {
    "type": "none",
-   "short": "No established human dose",
    "src": [
     117
    ],
-   "html": "No established or tested human dose exists; FDA has not approved it for any use. We don't list community, vendor or 'protocol' amounts. It is a potent opioid; the 1980s clinical study was never followed up.<sup class=\"cites\"><a class=\"cite\" href=\"#s117\" data-src=\"117\">117</a></sup>"
+   "locked": 1
   },
   "thymosina1": {
    "type": "trial",
-   "short": "Trial doses: 1.6 mg twice weekly (hepatitis)",
    "src": [
     118,
     119
    ],
-   "html": "Hepatitis trials: 1.6 mg subcutaneously twice a week.<sup class=\"cites\"><a class=\"cite\" href=\"#s118\" data-src=\"118\">118</a></sup> TESTS sepsis trial: subcutaneous injection every 12 hours for 7 days (no mortality benefit).<sup class=\"cites\"><a class=\"cite\" href=\"#s119\" data-src=\"119\">119</a></sup>"
+   "locked": 1
   },
   "vip": {
    "type": "trial",
-   "short": "Trial doses: IV 600–1,800 pmol/kg ×3 days",
    "src": [
     120
    ],
-   "html": "TESICO (COVID-19): aviptadil as a 12-hour IV infusion daily for 3 days, targeting 600, 1,200 and 1,800 pmol/kg (no benefit).<sup class=\"cites\"><a class=\"cite\" href=\"#s120\" data-src=\"120\">120</a></sup>"
+   "locked": 1
   },
   "pnc27": {
    "type": "none",
-   "short": "No established human dose",
    "src": [
     122
    ],
-   "html": "No established or tested human dose exists; FDA has not approved it for any use. We don't list community, vendor or 'protocol' amounts. Data are from cell studies only.<sup class=\"cites\"><a class=\"cite\" href=\"#s122\" data-src=\"122\">122</a></sup>"
+   "locked": 1
   },
   "cortistatin": {
    "type": "none",
-   "short": "No established human dose",
    "src": [
     123
    ],
-   "html": "No established or tested human dose exists; FDA has not approved it for any use. We don't list community, vendor or 'protocol' amounts. Data are mostly animal and cell studies.<sup class=\"cites\"><a class=\"cite\" href=\"#s123\" data-src=\"123\">123</a></sup>"
+   "locked": 1
   },
   "thymalin": {
    "type": "none",
-   "short": "No established human dose",
    "src": [
     124
    ],
-   "html": "No established or tested human dose exists; FDA has not approved it for any use. A community protocol from researchcfps.com is shown below for education only; it is not a tested or approved dose. Data are mostly cell studies.<sup class=\"cites\"><a class=\"cite\" href=\"#s124\" data-src=\"124\">124</a></sup>"
+   "locked": 1
   },
   "vilon": {
    "type": "none",
-   "short": "No established human dose",
    "src": [
     125
    ],
-   "html": "No established or tested human dose exists; FDA has not approved it for any use. A community protocol from researchcfps.com is shown below for education only; it is not a tested or approved dose. Data are from mice.<sup class=\"cites\"><a class=\"cite\" href=\"#s125\" data-src=\"125\">125</a></sup>"
+   "locked": 1
   },
   "io102": {
    "type": "trial",
-   "short": "Trial doses: 85 µg each + pembrolizumab",
    "src": [
     126
    ],
-   "html": "Phase 3: IO102-IO103 85 µg each subcutaneously, with pembrolizumab 200 mg IV every 3 weeks, for up to 2 years.<sup class=\"cites\"><a class=\"cite\" href=\"#s126\" data-src=\"126\">126</a></sup>"
+   "locked": 1
   },
   "pegcetacoplan": {
    "type": "label",
@@ -4329,12 +4272,11 @@
   },
   "kisspeptin10": {
    "type": "trial",
-   "short": "Research doses only (infusions)",
    "src": [
     135,
     136
    ],
-   "html": "Research studies in healthy men: IV boluses of 0.01–3.0 µg/kg (maximal LH at 1 µg/kg) and IV infusions of 1.5–4 µg/kg/h<sup class=\"cites\"><a class=\"cite\" href=\"#s135\" data-src=\"135\">135</a></sup>; subcutaneous infusions of 1.25–10 nmol/kg/h, and daily 8-hour infusions at 150 nmol/h for 12 days.<sup class=\"cites\"><a class=\"cite\" href=\"#s136\" data-src=\"136\">136</a></sup>"
+   "locked": 1
   },
   "gonadorelin": {
    "type": "disc",
@@ -4364,11 +4306,10 @@
   },
   "mvt602": {
    "type": "trial",
-   "short": "Trial doses: single 0.1–3 µg",
    "src": [
     142
    ],
-   "html": "Single subcutaneous doses of 0.1, 0.3, 1.0 or 3.0 µg in women.<sup class=\"cites\"><a class=\"cite\" href=\"#s142\" data-src=\"142\">142</a></sup>"
+   "locked": 1
   },
   "abaloparatide": {
    "type": "label",
@@ -4404,68 +4345,60 @@
   },
   "glepaglutide": {
    "type": "trial",
-   "short": "Trial doses: 10 mg twice weekly",
    "src": [
     148
    ],
-   "html": "Phase 3: 10 mg subcutaneously twice weekly (effective) or once weekly (not significantly different from placebo) for 24 weeks.<sup class=\"cites\"><a class=\"cite\" href=\"#s148\" data-src=\"148\">148</a></sup>"
+   "locked": 1
   },
   "larazotide": {
    "type": "trial",
-   "short": "Trial doses: 0.5–2 mg three times daily",
    "src": [
     149
    ],
-   "html": "Phase 2: 0.5, 1 or 2 mg by mouth three times daily; only 0.5 mg beat placebo.<sup class=\"cites\"><a class=\"cite\" href=\"#s149\" data-src=\"149\">149</a></sup>"
+   "locked": 1
   },
   "epitalon": {
    "type": "none",
-   "short": "No established human dose",
    "src": [
     33
    ],
-   "html": "No established or tested human dose exists; FDA has not approved it for any use. A community protocol from researchcfps.com is shown below for education only; it is not a tested or approved dose. FDA says it has not identified safety information for the proposed route.<sup class=\"cites\"><a class=\"cite\" href=\"#s33\" data-src=\"33\">33</a></sup>"
+   "locked": 1
   },
   "foxo4dri": {
    "type": "none",
-   "short": "No established human dose",
    "src": [
     154
    ],
-   "html": "No established or tested human dose exists; FDA has not approved it for any use. A community protocol from researchcfps.com is shown below for education only; it is not a tested or approved dose. Data are from mice only.<sup class=\"cites\"><a class=\"cite\" href=\"#s154\" data-src=\"154\">154</a></sup>"
+   "locked": 1
   },
   "tatbeclin": {
    "type": "none",
-   "short": "No established human dose",
    "src": [
     155
    ],
-   "html": "No established or tested human dose exists; FDA has not approved it for any use. We don't list community, vendor or 'protocol' amounts. Data are from cells and mice only.<sup class=\"cites\"><a class=\"cite\" href=\"#s155\" data-src=\"155\">155</a></sup>"
+   "locked": 1
   },
   "glutathione": {
    "type": "trial",
-   "short": "Trial doses: 250–1,000 mg/day oral",
    "src": [
     156
    ],
-   "html": "6-month RCT: 250 or 1,000 mg/day by mouth.<sup class=\"cites\"><a class=\"cite\" href=\"#s156\" data-src=\"156\">156</a></sup>"
+   "locked": 1
   },
   "carnosine": {
    "type": "trial",
-   "short": "Trial doses varied",
    "src": [
     157
    ],
-   "html": "Trials pooled in the 2025 meta-analysis used varying doses of carnosine or beta-alanine; the authors call for work to establish optimal dosage.<sup class=\"cites\"><a class=\"cite\" href=\"#s157\" data-src=\"157\">157</a></sup>"
+   "locked": 1
   },
   "vesugen": {
    "type": "none",
-   "short": "No established human dose",
    "src": [
     114,
     158
    ],
-   "html": "No established or tested human dose exists; FDA has not approved it for any use. A community protocol from researchcfps.com is shown below for education only; it is not a tested or approved dose. The small uncontrolled studies' abstracts don't give doses.<sup class=\"cites\"><a class=\"cite\" href=\"#s158\" data-src=\"158\">158</a><span class=\"cite-sep\">,</span><a class=\"cite\" href=\"#s114\" data-src=\"114\">114</a></sup>"
+   "locked": 1
   },
   "motixafortide": {
    "type": "label",
@@ -4493,601 +4426,20 @@
   },
   "risuteganib": {
    "type": "trial",
-   "short": "Trial doses: not reported in source",
    "src": [
     167
    ],
-   "html": "Tested in early phase 1/2 eye trials; the review abstract cited here doesn't give dose amounts.<sup class=\"cites\"><a class=\"cite\" href=\"#s167\" data-src=\"167\">167</a></sup>"
+   "locked": 1
   },
   "prostamax": {
    "type": "none",
-   "short": "No established human dose",
    "src": [
     168
    ],
-   "html": "No established or tested human dose exists; FDA has not approved it for any use. A community protocol from researchcfps.com is shown below for education only; it is not a tested or approved dose. Data are from rat tissue culture only.<sup class=\"cites\"><a class=\"cite\" href=\"#s168\" data-src=\"168\">168</a></sup>"
+   "locked": 1
   }
  },
- "COMMUNITY": {
-  "bpc157": {
-   "u": "https://researchcfps.com/peptides/bpc-157/",
-   "rows": [
-    [
-     "Amount",
-     "250-500 mcg"
-    ],
-    [
-     "Frequency",
-     "1-2 times daily"
-    ],
-    [
-     "Cycle",
-     "4-6 weeks on, followed by 2-4 weeks off"
-    ]
-   ]
-  },
-  "tb500": {
-   "u": "https://researchcfps.com/peptides/tb-500/",
-   "rows": [
-    [
-     "Amount",
-     "2.0 - 2.5 mg per injection"
-    ],
-    [
-     "Frequency",
-     "2 times per week (loading phase)"
-    ],
-    [
-     "Cycle",
-     "4-6 weeks on (loading phase), followed by a maintenance dose of 2-2.5 mg once a month or bi-weekly"
-    ]
-   ]
-  },
-  "ghkcu": {
-   "u": "https://researchcfps.com/peptides/ghk-cu/",
-   "rows": [
-    [
-     "Amount",
-     "1-2 mg/day (SubQ) or 1-3% concentration (topical)"
-    ],
-    [
-     "Frequency",
-     "Once daily"
-    ],
-    [
-     "Cycle",
-     "4-8 weeks on, 2-4 weeks off"
-    ]
-   ]
-  },
-  "cjcipa": {
-   "u": "https://researchcfps.com/peptides/cjc-1295-ipamorelin-blend/",
-   "rows": [
-    [
-     "Amount",
-     "100-300 mcg of each compound per dose"
-    ],
-    [
-     "Frequency",
-     "1-2 times daily (often morning and before bed)"
-    ],
-    [
-     "Cycle",
-     "8-12 weeks on, followed by 4 weeks off"
-    ]
-   ]
-  },
-  "aod9604": {
-   "u": "https://researchcfps.com/peptides/aod-9604/",
-   "rows": [
-    [
-     "Amount",
-     "250-500 mcg/day"
-    ],
-    [
-     "Frequency",
-     "Once daily, typically administered in the morning on an empty stomach"
-    ],
-    [
-     "Cycle",
-     "8-12 weeks on, followed by a break"
-    ]
-   ]
-  },
-  "motsc": {
-   "u": "https://researchcfps.com/peptides/mots-c/",
-   "rows": [
-    [
-     "Amount",
-     "5-10 mg"
-    ],
-    [
-     "Frequency",
-     "1-3 times per week"
-    ],
-    [
-     "Cycle",
-     "4-6 weeks on, 2-4 weeks off"
-    ]
-   ]
-  },
-  "adipotide": {
-   "u": "https://researchcfps.com/peptides/adipotide-ftpp/",
-   "rows": [
-    [
-     "Amount",
-     "250-500 mcg/day (Note: Extrapolated from animal models)"
-    ],
-    [
-     "Frequency",
-     "Daily"
-    ],
-    [
-     "Cycle",
-     "4 weeks on, followed by a recovery period"
-    ]
-   ]
-  },
-  "kpv": {
-   "u": "https://researchcfps.com/peptides/kpv/",
-   "rows": [
-    [
-     "Amount",
-     "200-500 mcg/day"
-    ],
-    [
-     "Frequency",
-     "Once or twice daily"
-    ],
-    [
-     "Cycle",
-     "4-8 weeks on, followed by a break"
-    ]
-   ]
-  },
-  "mgf": {
-   "u": "https://researchcfps.com/peptides/mgf/",
-   "rows": [
-    [
-     "Amount",
-     "200-400 mcg per administration"
-    ],
-    [
-     "Frequency",
-     "2-3 times per week, typically post-workout"
-    ],
-    [
-     "Cycle",
-     "4-6 weeks on, followed by 4 weeks off"
-    ]
-   ]
-  },
-  "semax": {
-   "u": "https://researchcfps.com/peptides/semax/",
-   "rows": [
-    [
-     "Amount",
-     "200-1000 mcg per day"
-    ],
-    [
-     "Frequency",
-     "1-3 times daily"
-    ],
-    [
-     "Cycle",
-     "2-4 weeks on, followed by an equal time off"
-    ]
-   ]
-  },
-  "selank": {
-   "u": "https://researchcfps.com/peptides/selank/",
-   "rows": [
-    [
-     "Amount",
-     "250-500 mcg per day (often administered via nasal spray or SubQ)"
-    ],
-    [
-     "Frequency",
-     "1-3 times daily"
-    ],
-    [
-     "Cycle",
-     "10-14 days on, followed by a break of 1-2 weeks"
-    ]
-   ]
-  },
-  "dihexa": {
-   "u": "https://researchcfps.com/peptides/dihexa/",
-   "rows": [
-    [
-     "Amount",
-     "10-20 mg/day (oral/sublingual) or 2-5 mg/day (SubQ)"
-    ],
-    [
-     "Frequency",
-     "Once daily or 2-3x/week"
-    ],
-    [
-     "Cycle",
-     "4-8 weeks on, 4 weeks off"
-    ]
-   ]
-  },
-  "dsip": {
-   "u": "https://researchcfps.com/peptides/dsip/",
-   "rows": [
-    [
-     "Amount",
-     "100-250 mcg"
-    ],
-    [
-     "Frequency",
-     "1-3 hours before bed, as needed"
-    ],
-    [
-     "Cycle",
-     "Often used acutely or cycled (e.g., 5 days on, 2 days off) to prevent tolerance"
-    ]
-   ]
-  },
-  "pe2228": {
-   "u": "https://researchcfps.com/peptides/pe-22-28/",
-   "rows": [
-    [
-     "Amount",
-     "200-600 mcg/day (anecdotal/research)"
-    ],
-    [
-     "Frequency",
-     "Once daily"
-    ],
-    [
-     "Cycle",
-     "4-8 weeks on, followed by a break"
-    ]
-   ]
-  },
-  "pinealon": {
-   "u": "https://researchcfps.com/peptides/pinealon/",
-   "rows": [
-    [
-     "Amount",
-     "1-2 mg per day (SubQ) or 10-20 mg per day (Oral)"
-    ],
-    [
-     "Frequency",
-     "Once daily"
-    ],
-    [
-     "Cycle",
-     "10-20 days, repeated 2-3 times a year"
-    ]
-   ]
-  },
-  "thymalin": {
-   "u": "https://researchcfps.com/peptides/thymalin/",
-   "rows": [
-    [
-     "Amount",
-     "10 mg per day"
-    ],
-    [
-     "Frequency",
-     "Once daily for 5-10 days"
-    ],
-    [
-     "Cycle",
-     "Repeated every 1-6 months depending on immune status"
-    ]
-   ]
-  },
-  "vilon": {
-   "u": "https://researchcfps.com/peptides/vilon/",
-   "rows": [
-    [
-     "Amount",
-     "1-2 mg/day"
-    ],
-    [
-     "Frequency",
-     "Once daily"
-    ],
-    [
-     "Cycle",
-     "10-20 days on, followed by a multi-month break"
-    ]
-   ]
-  },
-  "epitalon": {
-   "u": "https://researchcfps.com/peptides/epitalon/",
-   "rows": [
-    [
-     "Amount",
-     "5-10 mg/day"
-    ],
-    [
-     "Frequency",
-     "Once daily"
-    ],
-    [
-     "Cycle",
-     "10-20 days per cycle, repeated 1-2 times per year"
-    ]
-   ]
-  },
-  "foxo4dri": {
-   "u": "https://researchcfps.com/peptides/foxo4-dri/",
-   "rows": [
-    [
-     "Amount",
-     "1-3 mg/day (theoretical research dose)"
-    ],
-    [
-     "Frequency",
-     "Every other day"
-    ],
-    [
-     "Cycle",
-     "Short bursts (e.g., 3 doses over a week) followed by long breaks"
-    ]
-   ]
-  },
-  "prostamax": {
-   "u": "https://researchcfps.com/peptides/prostamax/",
-   "rows": [
-    [
-     "Amount",
-     "1-2 mg per day (from reconstituted 10-20 mg vials)"
-    ],
-    [
-     "Frequency",
-     "Once daily via SubQ injection"
-    ],
-    [
-     "Cycle",
-     "10-20 days, repeated every 3-6 months"
-    ]
-   ]
-  },
-  "hexarelin": {
-   "u": "https://researchcfps.com/peptides/hexarelin/",
-   "rows": [
-    [
-     "Amount",
-     "100-200 mcg per dose"
-    ],
-    [
-     "Frequency",
-     "1-2 times daily"
-    ],
-    [
-     "Cycle",
-     "4-6 weeks on, followed by 2-4 weeks off to prevent desensitization"
-    ]
-   ]
-  },
-  "ghrp6": {
-   "u": "https://researchcfps.com/peptides/ghrp-6/",
-   "rows": [
-    [
-     "Amount",
-     "100-300 mcg per injection"
-    ],
-    [
-     "Frequency",
-     "1-3 times daily (often fasting or post-workout)"
-    ],
-    [
-     "Cycle",
-     "8-12 weeks on, followed by a break"
-    ]
-   ]
-  },
-  "melanotan2": {
-   "u": "https://researchcfps.com/peptides/melanotan-ii/",
-   "rows": [
-    [
-     "Amount",
-     "250-500 mcg per injection"
-    ],
-    [
-     "Frequency",
-     "Once daily or every other day until desired pigmentation is reached, then reduced to a maintenance dose of 1-2x/week"
-    ],
-    [
-     "Cycle",
-     "Loading phase of 2-4 weeks, followed by a maintenance phase"
-    ]
-   ]
-  },
-  "vesugen": {
-   "u": "https://researchcfps.com/peptides/vesugen/",
-   "rows": [
-    [
-     "Amount",
-     "10-20 mg/day (oral) or 5-10 mg (SubQ)"
-    ],
-    [
-     "Frequency",
-     "1-2 times daily"
-    ],
-    [
-     "Cycle",
-     "10-30 days, repeated every 4-6 months"
-    ]
-   ]
-  },
-  "ll37": {
-   "u": "https://researchcfps.com/peptides/ll-37/",
-   "rows": [
-    [
-     "Amount",
-     "100-250 mcg/day"
-    ],
-    [
-     "Frequency",
-     "Once daily"
-    ],
-    [
-     "Cycle",
-     "2-4 weeks on, followed by evaluation"
-    ]
-   ]
-  },
-  "kisspeptin10": {
-   "u": "https://researchcfps.com/peptides/kisspeptin-10/",
-   "rows": [
-    [
-     "Amount",
-     "100-300 mcg per dose"
-    ],
-    [
-     "Frequency",
-     "1-3 times per week (pulsatile mimicry)"
-    ],
-    [
-     "Cycle",
-     "4-8 weeks on, followed by a break to prevent desensitization"
-    ]
-   ]
-  },
-  "thymosina1": {
-   "u": "https://researchcfps.com/peptides/thymosin-alpha-1/",
-   "rows": [
-    [
-     "Amount",
-     "1.5 mg"
-    ],
-    [
-     "Frequency",
-     "2 times per week"
-    ],
-    [
-     "Cycle",
-     "4-12 weeks depending on the research protocol"
-    ]
-   ]
-  },
-  "ara290": {
-   "u": "https://researchcfps.com/peptides/ara-290/",
-   "rows": [
-    [
-     "Amount",
-     "4 mg/day"
-    ],
-    [
-     "Frequency",
-     "Once daily"
-    ],
-    [
-     "Cycle",
-     "28-day cycle (4 weeks)"
-    ]
-   ]
-  },
-  "glutathione": {
-   "u": "https://researchcfps.com/peptides/glutathione/",
-   "rows": [
-    [
-     "Amount",
-     "200-600 mg/day (SubQ/IM) or 500-1000 mg (Liposomal Oral)"
-    ],
-    [
-     "Frequency",
-     "1-3x/week for injections, daily for oral"
-    ],
-    [
-     "Cycle",
-     "Ongoing or 8-12 weeks for specific protocols"
-    ]
-   ]
-  },
-  "carnosine": {
-   "u": "https://researchcfps.com/peptides/carnosine/",
-   "rows": [
-    [
-     "Amount",
-     "500-1000 mg/day (oral)"
-    ],
-    [
-     "Frequency",
-     "1-2 times daily"
-    ],
-    [
-     "Cycle",
-     "Continuous use; no specific cycling required"
-    ]
-   ]
-  },
-  "cerebrolysin": {
-   "u": "https://researchcfps.com/peptides/cerebrolysin/",
-   "rows": [
-    [
-     "Amount",
-     "5-50 mL per day depending on the severity of the condition (e.g., 5 mL IM for mild cognitive issues, up to 50 mL IV for acute stroke)"
-    ],
-    [
-     "Frequency",
-     "Once daily"
-    ],
-    [
-     "Cycle",
-     "Typically 10-20 days per cycle, which can be repeated based on clinical response"
-    ]
-   ]
-  },
-  "vip": {
-   "u": "https://researchcfps.com/peptides/vip/",
-   "rows": [
-    [
-     "Amount",
-     "50-100 mcg (nasal spray) or continuous IV infusion in clinical settings"
-    ],
-    [
-     "Frequency",
-     "1-4 times daily (nasal spray)"
-    ],
-    [
-     "Cycle",
-     "Ongoing based on symptom management or acute short-term use in critical care"
-    ]
-   ]
-  },
-  "argireline": {
-   "u": "https://researchcfps.com/peptides/argireline-acetyl-hexapeptide-8/",
-   "rows": [
-    [
-     "Amount",
-     "5-10% concentration in topical formulations"
-    ],
-    [
-     "Frequency",
-     "1-2 times daily"
-    ],
-    [
-     "Cycle",
-     "Continuous daily use for sustained results"
-    ]
-   ]
-  },
-  "matrixyl": {
-   "u": "https://researchcfps.com/peptides/matrixyl-palmitoyl-pentapeptide-4/",
-   "rows": [
-    [
-     "Amount",
-     "3% to 8% concentration in topical formulations"
-    ],
-    [
-     "Frequency",
-     "Once or twice daily"
-    ],
-    [
-     "Cycle",
-     "Continuous daily use for at least 4-12 weeks to see results"
-    ]
-   ]
-  }
- },
+ "COMMUNITY": {},
  "LAB": {
   "semaglutide": {
    "type": "finn",
@@ -9888,30 +9240,6 @@
     "short": "Etiqueta: 2.5 mg semanal → 5–15 mg semanal",
     "html": "<b>Zepbound (reducción de peso, apnea obstructiva del sueño):</b> iniciar con 2.5 mg por vía subcutánea una vez por semana durante 4 semanas (solo es una dosis inicial, no de mantenimiento), luego aumentar en pasos de 2.5 mg después de al menos 4 semanas; mantenimiento de 5, 10 o 15 mg semanal para el peso (10 o 15 mg para la apnea del sueño); máximo 15 mg semanal.<sup class=\"cites\"><a class=\"cite\" href=\"#s171\" data-src=\"171\">171</a></sup> <b>Mounjaro (diabetes tipo 2):</b> el mismo inicio y los mismos pasos; máximo 15 mg semanal en adultos y 10 mg en niños de 10 años o más.<sup class=\"cites\"><a class=\"cite\" href=\"#s172\" data-src=\"172\">172</a></sup>"
    },
-   "retatrutide": {
-    "short": "Dosis de ensayo: 1–12 mg semanal",
-    "html": "Fase 2 (48 semanas): 1, 4, 8 o 12 mg en inyección subcutánea una vez por semana, algunos grupos con inicio en 2 mg; los efectos secundarios se redujeron en parte con una dosis inicial más baja.<sup class=\"cites\"><a class=\"cite\" href=\"#s173\" data-src=\"173\">173</a></sup>"
-   },
-   "bpc157": {
-    "short": "Sin dosis establecida en humanos",
-    "html": "No existe una dosis establecida ni probada en humanos; la FDA no lo ha aprobado para ningún uso. Abajo se muestra un protocolo de la comunidad de researchcfps.com solo con fines educativos; no es una dosis probada ni aprobada. La FDA dice que no ha identificado información de seguridad, o solo información limitada, para las vías propuestas y que no tiene suficiente información para saber si causaría daño en humanos.<sup class=\"cites\"><a class=\"cite\" href=\"#s33\" data-src=\"33\">33</a></sup>"
-   },
-   "tb500": {
-    "short": "Sin dosis establecida en humanos",
-    "html": "No existe una dosis establecida ni probada en humanos; la FDA no lo ha aprobado para ningún uso. Abajo se muestra un protocolo de la comunidad de researchcfps.com solo con fines educativos; no es una dosis probada ni aprobada. La FDA dice que no ha identificado ningún dato de exposición en humanos para el TB-500.<sup class=\"cites\"><a class=\"cite\" href=\"#s33\" data-src=\"33\">33</a></sup>"
-   },
-   "ghkcu": {
-    "short": "Sin dosis inyectada establecida",
-    "html": "El GHK-Cu se vende en sueros cosméticos, pero no hay una dosis establecida ni probada para uso inyectado. Para el GHK-Cu inyectable, la FDA señala preocupaciones de inmunogenicidad y datos de seguridad en humanos limitados.<sup class=\"cites\"><a class=\"cite\" href=\"#s33\" data-src=\"33\">33</a></sup> Abajo se muestra un protocolo de la comunidad de researchcfps.com solo con fines educativos; no es una dosis probada ni aprobada."
-   },
-   "cjcipa": {
-    "short": "Sin dosis establecida; alertas de seguridad de la FDA",
-    "html": "No hay una dosis establecida ni aprobada para la combinación; abajo se muestra un protocolo de la comunidad de researchcfps.com solo con fines educativos. Solo como referencia, estudios pequeños usaron: CJC-1295 en dosis subcutáneas únicas o repetidas, mejor tolerado a 30 o 60 µg/kg, en adultos sanos<sup class=\"cites\"><a class=\"cite\" href=\"#s174\" data-src=\"174\">174</a></sup>; ipamorelina 0.03 mg/kg IV dos veces al día durante hasta 7 días después de una cirugía intestinal.<sup class=\"cites\"><a class=\"cite\" href=\"#s175\" data-src=\"175\">175</a></sup> La FDA cita eventos adversos graves con CJC-1295 (aumento de la frecuencia cardíaca, reacción vasodilatadora) y eventos adversos graves, incluida la muerte, con ipamorelina IV.<sup class=\"cites\"><a class=\"cite\" href=\"#s33\" data-src=\"33\">33</a></sup>"
-   },
-   "collagen": {
-    "short": "Las dosis de los ensayos variaron (oral)",
-    "html": "Los productos de colágeno oral se han probado en distintas cantidades diarias; los metaanálisis citados aquí no respaldan una dosis estándar única.<sup class=\"cites\"><a class=\"cite\" href=\"#s25\" data-src=\"25\">25</a><span class=\"cite-sep\">,</span><a class=\"cite\" href=\"#s26\" data-src=\"26\">26</a></sup>"
-   },
    "ss31": {
     "short": "Etiqueta: 40 mg al día (síndrome de Barth)",
     "html": "<b>Forzinity (síndrome de Barth):</b> 40 mg por vía subcutánea una vez al día para pacientes que pesen al menos 30 kg; 20 mg una vez al día en adultos con TFGe menor de 30 mL/min que no estén en diálisis.<sup class=\"cites\"><a class=\"cite\" href=\"#s176\" data-src=\"176\">176</a></sup>"
@@ -9936,98 +9264,6 @@
     "short": "Etiqueta: iniciar con 0.5–2 mg al día → 3 mg al día",
     "html": "<b>Imcivree (indicaciones aprobadas de obesidad rara):</b> la dosis inicial depende de la indicación y la edad, p. ej., 2 mg por vía subcutánea una vez al día durante 2 semanas (12 años o más con SBB o deficiencia de POMC/PCSK1/LEPR) o 0.5 mg al día durante 2 semanas (obesidad hipotalámica adquirida, 4 años o más); el mantenimiento recomendado a partir de los 6 años es de 3 mg una vez al día.<sup class=\"cites\"><a class=\"cite\" href=\"#s46\" data-src=\"46\">46</a></sup>"
    },
-   "survodutide": {
-    "short": "Dosis de ensayo: hasta 3.6 o 6.0 mg semanal",
-    "html": "SYNCHRONIZE-1: inyección subcutánea una vez por semana, ajustada hasta 3.6 mg o 6.0 mg, durante 76 semanas.<sup class=\"cites\"><a class=\"cite\" href=\"#s48\" data-src=\"48\">48</a></sup>"
-   },
-   "mazdutide": {
-    "short": "Dosis de ensayo: 4 o 6 mg semanal",
-    "html": "GLORY-1: 4 mg o 6 mg una vez por semana durante 48 semanas.<sup class=\"cites\"><a class=\"cite\" href=\"#s49\" data-src=\"49\">49</a></sup>"
-   },
-   "cagrilintide": {
-    "short": "Dosis de ensayo: 0.3–4.5 mg semanal",
-    "html": "Fase 2: 0.3, 0.6, 1.2, 2.4 o 4.5 mg por vía subcutánea una vez por semana durante 26 semanas.<sup class=\"cites\"><a class=\"cite\" href=\"#s50\" data-src=\"50\">50</a></sup>"
-   },
-   "cagrisema": {
-    "short": "Dosis de ensayo: 2.4 mg + 2.4 mg semanal",
-    "html": "REDEFINE 1: cagrilintida 2.4 mg más semaglutida 2.4 mg una vez por semana durante 68 semanas.<sup class=\"cites\"><a class=\"cite\" href=\"#s51\" data-src=\"51\">51</a></sup>"
-   },
-   "amycretin": {
-    "short": "Dosis de ensayo: hasta 60 mg semanal",
-    "html": "Fase 1b/2a: dosis subcutáneas semanales aumentadas hasta 60 mg (36 semanas), o hasta dosis de mantenimiento de 20 mg, 5 mg o 1.25 mg.<sup class=\"cites\"><a class=\"cite\" href=\"#s52\" data-src=\"52\">52</a></sup>"
-   },
-   "eloralintide": {
-    "short": "Dosis de ensayo: 1–9 mg semanal",
-    "html": "Fase 2: 1, 3, 6 o 9 mg por vía subcutánea una vez por semana, o aumentos de 3→9 mg y 6→9 mg, durante 48 semanas.<sup class=\"cites\"><a class=\"cite\" href=\"#s53\" data-src=\"53\">53</a></sup>"
-   },
-   "petrelintide": {
-    "short": "Dosis de ensayo: 0.6–9.0 mg semanal",
-    "html": "Fase 1: 0.6 o 1.2 mg una vez por semana durante 6 dosis, o 16 dosis semanales aumentadas cada 2 semanas hasta 2.4, 4.8 o 9.0 mg.<sup class=\"cites\"><a class=\"cite\" href=\"#s55\" data-src=\"55\">55</a></sup>"
-   },
-   "pemvidutide": {
-    "short": "Dosis de ensayo: 1.2–2.4 mg semanal",
-    "html": "1.2, 1.8 o 2.4 mg por vía subcutánea una vez por semana durante 12 semanas.<sup class=\"cites\"><a class=\"cite\" href=\"#s57\" data-src=\"57\">57</a></sup>"
-   },
-   "cotadutide": {
-    "short": "Dosis de ensayo: 100–300 µg",
-    "html": "Fase 2b: 100, 200 o 300 µg en inyección subcutánea, con evaluación de la HbA1c y el peso hasta la semana 54.<sup class=\"cites\"><a class=\"cite\" href=\"#s58\" data-src=\"58\">58</a></sup>"
-   },
-   "ecnoglutide": {
-    "short": "Dosis de ensayo: 1.2–2.4 mg semanal",
-    "html": "Fase 3: 1.2, 1.8 o 2.4 mg por vía subcutánea una vez por semana durante 40 semanas.<sup class=\"cites\"><a class=\"cite\" href=\"#s59\" data-src=\"59\">59</a></sup>"
-   },
-   "vk2735": {
-    "short": "Dosis de ensayo: 2.5–15 mg semanal",
-    "html": "VENTURE: dosis subcutáneas semanales de 2.5 mg a 15 mg durante 13 semanas.<sup class=\"cites\"><a class=\"cite\" href=\"#s60\" data-src=\"60\">60</a></sup>"
-   },
-   "ct388": {
-    "short": "Dosis de ensayo: 5–12 mg semanal ×4",
-    "html": "Fase 1: dosis únicas de 0.5–7.5 mg, o 4 dosis semanales de 5–12 mg, por vía subcutánea.<sup class=\"cites\"><a class=\"cite\" href=\"#s62\" data-src=\"62\">62</a></sup>"
-   },
-   "taspoglutide": {
-    "short": "Dosis de ensayo: 10 o 20 mg semanal",
-    "html": "T-emerge 2: 10 mg o 20 mg por vía subcutánea una vez por semana.<sup class=\"cites\"><a class=\"cite\" href=\"#s64\" data-src=\"64\">64</a></sup>"
-   },
-   "berobenatide": {
-    "short": "Dosis de ensayo: semanal; mg no divulgados",
-    "html": "Fase 2b VESPER-1: cuatro niveles de dosis administrados por vía subcutánea una vez por semana sin ajuste gradual<sup class=\"cites\"><a class=\"cite\" href=\"#s65\" data-src=\"65\">65</a></sup>; la fase 3 usa tres grupos de dosis subcutáneas.<sup class=\"cites\"><a class=\"cite\" href=\"#s66\" data-src=\"66\">66</a></sup> Los registros no indican las cantidades en mg."
-   },
-   "gubamy": {
-    "short": "Dosis de ensayo: no divulgadas",
-    "html": "Fase 1: dosis subcutáneas únicas y luego múltiples (solución de 5 mg/mL)<sup class=\"cites\"><a class=\"cite\" href=\"#s67\" data-src=\"67\">67</a></sup>; la fase 2 aumenta seis grupos hasta dosis de mantenimiento.<sup class=\"cites\"><a class=\"cite\" href=\"#s68\" data-src=\"68\">68</a></sup> Los registros no indican las cantidades en mg."
-   },
-   "ribupatide": {
-    "short": "Dosis de ensayo: hasta 5.4 mg semanal ×4",
-    "html": "Primer estudio en humanos: dosis únicas de 0.1–8.1 mg, y 4 dosis subcutáneas semanales de hasta 5.4 mg.<sup class=\"cites\"><a class=\"cite\" href=\"#s69\" data-src=\"69\">69</a></sup>"
-   },
-   "zovaglutide": {
-    "short": "Dosis de ensayo: 80–160 mg cada 2–4 semanas",
-    "html": "Fase 2 (reportado por la empresa): 80 mg o 160 mg por vía subcutánea cada 4 semanas o cada 2 semanas, durante 24 semanas<sup class=\"cites\"><a class=\"cite\" href=\"#s71\" data-src=\"71\">71</a></sup>; en la fase 3 las dosis se administran cada 4 semanas.<sup class=\"cites\"><a class=\"cite\" href=\"#s72\" data-src=\"72\">72</a></sup>"
-   },
-   "aod9604": {
-    "short": "Sin dosis establecida en humanos",
-    "html": "No existe una dosis establecida ni probada en humanos; la FDA no lo ha aprobado para ningún uso. Abajo se muestra un protocolo de la comunidad de researchcfps.com solo con fines educativos; no es una dosis probada ni aprobada. La FDA reporta poca o ninguna información de seguridad y eventos adversos graves que podrían estar asociados.<sup class=\"cites\"><a class=\"cite\" href=\"#s33\" data-src=\"33\">33</a></sup>"
-   },
-   "motsc": {
-    "short": "Sin dosis establecida en humanos",
-    "html": "No existe una dosis establecida ni probada en humanos; la FDA no lo ha aprobado para ningún uso. Abajo se muestra un protocolo de la comunidad de researchcfps.com solo con fines educativos; no es una dosis probada ni aprobada. La FDA dice que no tiene datos de exposición en humanos.<sup class=\"cites\"><a class=\"cite\" href=\"#s33\" data-src=\"33\">33</a></sup>"
-   },
-   "adipotide": {
-    "short": "Sin dosis establecida en humanos",
-    "html": "No existe una dosis establecida ni probada en humanos; la FDA no lo ha aprobado para ningún uso. Abajo se muestra un protocolo de la comunidad de researchcfps.com solo con fines educativos; no es una dosis probada ni aprobada. Los datos provienen solo de monos.<sup class=\"cites\"><a class=\"cite\" href=\"#s76\" data-src=\"76\">76</a></sup>"
-   },
-   "kpv": {
-    "short": "Sin dosis establecida en humanos",
-    "html": "No existe una dosis establecida ni probada en humanos; la FDA no lo ha aprobado para ningún uso. Abajo se muestra un protocolo de la comunidad de researchcfps.com solo con fines educativos; no es una dosis probada ni aprobada. La FDA dice que no tiene datos de exposición en humanos.<sup class=\"cites\"><a class=\"cite\" href=\"#s33\" data-src=\"33\">33</a></sup>"
-   },
-   "ll37": {
-    "short": "Dosis de ensayo: tópico 0.5–3.2 mg/mL",
-    "html": "Tópico en úlceras venosas de pierna: 0.5, 1.6 o 3.2 mg/mL (las dos más bajas mostraron beneficio en el ensayo de 2014).<sup class=\"cites\"><a class=\"cite\" href=\"#s78\" data-src=\"78\">78</a></sup> No se ha probado ninguna dosis inyectada en ensayos."
-   },
-   "mgf": {
-    "short": "Sin dosis establecida en humanos",
-    "html": "No existe una dosis establecida ni probada en humanos; la FDA no lo ha aprobado para ningún uso. Abajo se muestra un protocolo de la comunidad de researchcfps.com solo con fines educativos; no es una dosis probada ni aprobada. La FDA dice que no tiene datos de exposición en humanos para el PEG-MGF.<sup class=\"cites\"><a class=\"cite\" href=\"#s33\" data-src=\"33\">33</a></sup>"
-   },
    "tesamorelin": {
     "short": "Etiqueta: 1.28 mg al día (Egrifta WR)",
     "html": "<b>Egrifta WR (grasa abdominal asociada al VIH):</b> 1.28 mg por vía subcutánea una vez al día en el abdomen. Egrifta SV es una formulación diferente con otra dosificación; no son intercambiables.<sup class=\"cites\"><a class=\"cite\" href=\"#s83\" data-src=\"83\">83</a></sup>"
@@ -10036,125 +9272,13 @@
     "short": "Sin etiqueta vigente (Geref descontinuado)",
     "html": "No hay una etiqueta vigente de la FDA porque Geref está descontinuado.<sup class=\"cites\"><a class=\"cite\" href=\"#s85\" data-src=\"85\">85</a></sup> Solo como referencia: una revisión de 1999 describe el esquema estudiado en niños con deficiencia de hormona del crecimiento, 30 µg/kg por vía subcutánea una vez al día, y una dosis IV única de 1 µg/kg como prueba diagnóstica.<sup class=\"cites\"><a class=\"cite\" href=\"#s84\" data-src=\"84\">84</a></sup> Estas no son dosis para adultos ni \"antienvejecimiento\"."
    },
-   "hexarelin": {
-    "short": "Sin dosis establecida en humanos",
-    "html": "No existe una dosis establecida ni probada en humanos; la FDA no lo ha aprobado para ningún uso. Abajo se muestra un protocolo de la comunidad de researchcfps.com solo con fines educativos; no es una dosis probada ni aprobada. Las revisiones describen pocos estudios rigurosos y una seguridad a largo plazo desconocida.<sup class=\"cites\"><a class=\"cite\" href=\"#s86\" data-src=\"86\">86</a></sup>"
-   },
-   "ghrp6": {
-    "short": "Sin dosis establecida en humanos",
-    "html": "No existe una dosis establecida ni probada en humanos; la FDA no lo ha aprobado para ningún uso. Abajo se muestra un protocolo de la comunidad de researchcfps.com solo con fines educativos; no es una dosis probada ni aprobada. La FDA lo mantiene en su lista de Categoría 2, por inmunogenicidad, efectos sobre el cortisol y glucosa en sangre más alta.<sup class=\"cites\"><a class=\"cite\" href=\"#s33\" data-src=\"33\">33</a></sup>"
-   },
    "afamelanotide": {
     "short": "Etiqueta: implante de 16 mg cada 2 meses",
     "html": "<b>Scenesse (PPE):</b> un implante de 16 mg colocado bajo la piel por encima del hueso de la cadera cada 2 meses, por un profesional de la salud capacitado.<sup class=\"cites\"><a class=\"cite\" href=\"#s89\" data-src=\"89\">89</a></sup>"
    },
-   "melanotan2": {
-    "short": "Sin dosis establecida en humanos",
-    "html": "No existe una dosis establecida ni probada en humanos; la FDA no lo ha aprobado para ningún uso. Abajo se muestra un protocolo de la comunidad de researchcfps.com solo con fines educativos; no es una dosis probada ni aprobada. La FDA cita reportes de casos de melanoma, PRES, toxíndrome simpaticomimético y priapismo.<sup class=\"cites\"><a class=\"cite\" href=\"#s33\" data-src=\"33\">33</a></sup>"
-   },
-   "argireline": {
-    "short": "Uso en ensayo: crema dos veces al día",
-    "html": "En el ensayo de patas de gallo con 21 personas, la crema se aplicó dos veces al día alrededor de los ojos; el resumen no indica la concentración.<sup class=\"cites\"><a class=\"cite\" href=\"#s93\" data-src=\"93\">93</a></sup>"
-   },
-   "matrixyl": {
-    "short": "Uso en ensayo: crema dos veces al día",
-    "html": "En el ensayo de patas de gallo con 21 personas, la crema se aplicó dos veces al día alrededor de los ojos; el resumen no indica la concentración.<sup class=\"cites\"><a class=\"cite\" href=\"#s93\" data-src=\"93\">93</a></sup>"
-   },
-   "os01": {
-    "short": "Tópico; concentración no reportada",
-    "html": "Se probó como formulación tópica para el cuidado de la piel; el resumen publicado no indica una concentración.<sup class=\"cites\"><a class=\"cite\" href=\"#s96\" data-src=\"96\">96</a></sup>"
-   },
-   "semax": {
-    "short": "Sin dosis establecida en humanos",
-    "html": "No existe una dosis establecida ni probada en humanos; la FDA no lo ha aprobado para ningún uso. Abajo se muestra un protocolo de la comunidad de researchcfps.com solo con fines educativos; no es una dosis probada ni aprobada. La FDA dice que no tiene información de seguridad o que es limitada.<sup class=\"cites\"><a class=\"cite\" href=\"#s33\" data-src=\"33\">33</a></sup> Existen pequeños estudios rusos, pero sus resúmenes no dan dosis que pudiéramos verificar.<sup class=\"cites\"><a class=\"cite\" href=\"#s97\" data-src=\"97\">97</a></sup>"
-   },
-   "selank": {
-    "short": "Sin dosis establecida en humanos",
-    "html": "No existe una dosis establecida ni probada en humanos; la FDA no lo ha aprobado para ningún uso. Abajo se muestra un protocolo de la comunidad de researchcfps.com solo con fines educativos; no es una dosis probada ni aprobada. La FDA dice que carece de información de seguridad importante.<sup class=\"cites\"><a class=\"cite\" href=\"#s33\" data-src=\"33\">33</a></sup>"
-   },
-   "dihexa": {
-    "short": "Sin dosis establecida en humanos",
-    "html": "No existe una dosis establecida ni probada en humanos; la FDA no lo ha aprobado para ningún uso. Abajo se muestra un protocolo de la comunidad de researchcfps.com solo con fines educativos; no es una dosis probada ni aprobada. La FDA dice que no tiene datos de exposición en humanos por ninguna vía.<sup class=\"cites\"><a class=\"cite\" href=\"#s33\" data-src=\"33\">33</a></sup>"
-   },
-   "dsip": {
-    "short": "Sin dosis establecida (un estudio pequeño)",
-    "html": "No hay una dosis establecida ni aprobada. Solo como referencia: el estudio de insomnio de 1992 administró 25 nmol/kg IV en tres tardes y no encontró un beneficio importante.<sup class=\"cites\"><a class=\"cite\" href=\"#s100\" data-src=\"100\">100</a></sup> La FDA dice que no tiene información de seguridad para la vía propuesta.<sup class=\"cites\"><a class=\"cite\" href=\"#s33\" data-src=\"33\">33</a></sup>"
-   },
-   "pe2228": {
-    "short": "Sin dosis establecida en humanos",
-    "html": "No existe una dosis establecida ni probada en humanos; la FDA no lo ha aprobado para ningún uso. Abajo se muestra un protocolo de la comunidad de researchcfps.com solo con fines educativos; no es una dosis probada ni aprobada. Los datos provienen solo de ratones.<sup class=\"cites\"><a class=\"cite\" href=\"#s101\" data-src=\"101\">101</a></sup>"
-   },
-   "humanin": {
-    "short": "Sin dosis establecida en humanos",
-    "html": "No existe una dosis establecida ni probada en humanos; la FDA no lo ha aprobado para ningún uso. No incluimos cantidades de la comunidad, de vendedores ni de \"protocolos\". La investigación es solo en células y animales.<sup class=\"cites\"><a class=\"cite\" href=\"#s102\" data-src=\"102\">102</a></sup>"
-   },
-   "davunetide": {
-    "short": "Dosis de ensayo: 30 mg nasal dos veces al día",
-    "html": "Fase 2/3 en PSP: 30 mg por vía intranasal dos veces al día durante 52 semanas (no fue eficaz).<sup class=\"cites\"><a class=\"cite\" href=\"#s103\" data-src=\"103\">103</a></sup>"
-   },
-   "rapastinel": {
-    "short": "Dosis de ensayo: dosis IV única de 1–30 mg/kg",
-    "html": "Prueba de concepto: una dosis IV única de 1, 5, 10 o 30 mg/kg; 5 y 10 mg/kg redujeron los síntomas durante alrededor de una semana.<sup class=\"cites\"><a class=\"cite\" href=\"#s104\" data-src=\"104\">104</a></sup>"
-   },
-   "nemifitide": {
-    "short": "Dosis de ensayo: 30–45 mg/día ×2 semanas",
-    "html": "30 mg/día o 45 mg/día en inyección subcutánea, 5 días a la semana durante 2 semanas.<sup class=\"cites\"><a class=\"cite\" href=\"#s106\" data-src=\"106\">106</a></sup>"
-   },
-   "npy": {
-    "short": "Dosis de ensayo: dosis nasal única de 1.4–9.6 mg",
-    "html": "Dosis intranasales únicas de 1.4 a 9.6 mg en un estudio de búsqueda de dosis en TEPT.<sup class=\"cites\"><a class=\"cite\" href=\"#s107\" data-src=\"107\">107</a></sup>"
-   },
-   "cerebrolysin": {
-    "short": "Esquema de ensayo: p. ej., 30 mL al día ×10 días",
-    "html": "Los ensayos en accidente cerebrovascular usaron esquemas diarios como 30 mL al día durante 10 días; una revisión Cochrane encontró que el aumento de eventos adversos graves no mortales fue más notable con ese esquema de 30 mL × 10 días.<sup class=\"cites\"><a class=\"cite\" href=\"#s108\" data-src=\"108\">108</a></sup>"
-   },
-   "brimapitide": {
-    "short": "Dosis de ensayo: inyección única en el oído de 0.4–0.8 mg/mL",
-    "html": "Fase 3: una inyección intratimpánica única (a través del tímpano) de 0.4 o 0.8 mg/mL.<sup class=\"cites\"><a class=\"cite\" href=\"#s110\" data-src=\"110\">110</a></sup>"
-   },
    "ziconotide": {
     "short": "Etiqueta: intratecal, ≤2.4 → 19.2 mcg/día",
     "html": "<b>Prialt (dolor crónico intenso):</b> solo infusión intratecal (no IV), a cargo de un médico con experiencia en bombas implantadas. Iniciar con no más de 2.4 mcg/día y aumentar hasta 2.4 mcg/día no más de 2–3 veces por semana, hasta un máximo recomendado de 19.2 mcg/día para el día 21.<sup class=\"cites\"><a class=\"cite\" href=\"#s111\" data-src=\"111\">111</a></sup>"
-   },
-   "pinealon": {
-    "short": "Sin dosis establecida en humanos",
-    "html": "No existe una dosis establecida ni probada en humanos; la FDA no lo ha aprobado para ningún uso. Abajo se muestra un protocolo de la comunidad de researchcfps.com solo con fines educativos; no es una dosis probada ni aprobada. El resumen del pequeño estudio ruso en humanos no indica una dosis.<sup class=\"cites\"><a class=\"cite\" href=\"#s114\" data-src=\"114\">114</a></sup>"
-   },
-   "ara290": {
-    "short": "Dosis de ensayo: 2–4 mg",
-    "html": "Ensayos piloto: 2 mg IV tres veces por semana (sarcoidosis)<sup class=\"cites\"><a class=\"cite\" href=\"#s115\" data-src=\"115\">115</a></sup>; 4 mg por vía subcutánea al día durante 28 días (diabetes tipo 2).<sup class=\"cites\"><a class=\"cite\" href=\"#s116\" data-src=\"116\">116</a></sup>"
-   },
-   "dermorphin": {
-    "short": "Sin dosis establecida en humanos",
-    "html": "No existe una dosis establecida ni probada en humanos; la FDA no lo ha aprobado para ningún uso. No incluimos cantidades de la comunidad, de vendedores ni de \"protocolos\". Es un opioide potente; el estudio clínico de los años 80 nunca tuvo seguimiento.<sup class=\"cites\"><a class=\"cite\" href=\"#s117\" data-src=\"117\">117</a></sup>"
-   },
-   "thymosina1": {
-    "short": "Dosis de ensayo: 1.6 mg dos veces por semana (hepatitis)",
-    "html": "Ensayos en hepatitis: 1.6 mg por vía subcutánea dos veces por semana.<sup class=\"cites\"><a class=\"cite\" href=\"#s118\" data-src=\"118\">118</a></sup> Ensayo TESTS en sepsis: inyección subcutánea cada 12 horas durante 7 días (sin beneficio en la mortalidad).<sup class=\"cites\"><a class=\"cite\" href=\"#s119\" data-src=\"119\">119</a></sup>"
-   },
-   "vip": {
-    "short": "Dosis de ensayo: IV 600–1,800 pmol/kg ×3 días",
-    "html": "TESICO (COVID-19): aviptadil en infusión IV de 12 horas al día durante 3 días, con metas de 600, 1,200 y 1,800 pmol/kg (sin beneficio).<sup class=\"cites\"><a class=\"cite\" href=\"#s120\" data-src=\"120\">120</a></sup>"
-   },
-   "pnc27": {
-    "short": "Sin dosis establecida en humanos",
-    "html": "No existe una dosis establecida ni probada en humanos; la FDA no lo ha aprobado para ningún uso. No incluimos cantidades de la comunidad, de vendedores ni de \"protocolos\". Los datos provienen solo de estudios en células.<sup class=\"cites\"><a class=\"cite\" href=\"#s122\" data-src=\"122\">122</a></sup>"
-   },
-   "cortistatin": {
-    "short": "Sin dosis establecida en humanos",
-    "html": "No existe una dosis establecida ni probada en humanos; la FDA no lo ha aprobado para ningún uso. No incluimos cantidades de la comunidad, de vendedores ni de \"protocolos\". Los datos provienen sobre todo de estudios en animales y células.<sup class=\"cites\"><a class=\"cite\" href=\"#s123\" data-src=\"123\">123</a></sup>"
-   },
-   "thymalin": {
-    "short": "Sin dosis establecida en humanos",
-    "html": "No existe una dosis establecida ni probada en humanos; la FDA no lo ha aprobado para ningún uso. Abajo se muestra un protocolo de la comunidad de researchcfps.com solo con fines educativos; no es una dosis probada ni aprobada. Los datos provienen sobre todo de estudios en células.<sup class=\"cites\"><a class=\"cite\" href=\"#s124\" data-src=\"124\">124</a></sup>"
-   },
-   "vilon": {
-    "short": "Sin dosis establecida en humanos",
-    "html": "No existe una dosis establecida ni probada en humanos; la FDA no lo ha aprobado para ningún uso. Abajo se muestra un protocolo de la comunidad de researchcfps.com solo con fines educativos; no es una dosis probada ni aprobada. Los datos provienen de ratones.<sup class=\"cites\"><a class=\"cite\" href=\"#s125\" data-src=\"125\">125</a></sup>"
-   },
-   "io102": {
-    "short": "Dosis de ensayo: 85 µg de cada uno + pembrolizumab",
-    "html": "Fase 3: IO102-IO103, 85 µg de cada uno por vía subcutánea, con pembrolizumab 200 mg IV cada 3 semanas, durante hasta 2 años.<sup class=\"cites\"><a class=\"cite\" href=\"#s126\" data-src=\"126\">126</a></sup>"
    },
    "pegcetacoplan": {
     "short": "Etiqueta: 1,080 mg dos veces por semana (Empaveli)",
@@ -10168,10 +9292,6 @@
     "short": "Etiqueta: 200 mg oral una vez al día",
     "html": "<b>Icotyde (psoriasis en placas):</b> 200 mg por vía oral una vez al día al despertar, en ayunas y con agua; esperar al menos 30 minutos antes de comer.<sup class=\"cites\"><a class=\"cite\" href=\"#s134\" data-src=\"134\">134</a></sup>"
    },
-   "kisspeptin10": {
-    "short": "Solo dosis de investigación (infusiones)",
-    "html": "Estudios de investigación en hombres sanos: bolos IV de 0.01–3.0 µg/kg (LH máxima con 1 µg/kg) e infusiones IV de 1.5–4 µg/kg/h<sup class=\"cites\"><a class=\"cite\" href=\"#s135\" data-src=\"135\">135</a></sup>; infusiones subcutáneas de 1.25–10 nmol/kg/h, e infusiones diarias de 8 horas a 150 nmol/h durante 12 días.<sup class=\"cites\"><a class=\"cite\" href=\"#s136\" data-src=\"136\">136</a></sup>"
-   },
    "gonadorelin": {
     "short": "Sin etiqueta vigente (productos descontinuados)",
     "html": "No hay una etiqueta vigente de la FDA: ambos productos aprobados (Factrel, Lutrepulse) están descontinuados.<sup class=\"cites\"><a class=\"cite\" href=\"#s137\" data-src=\"137\">137</a><span class=\"cite-sep\">,</span><a class=\"cite\" href=\"#s138\" data-src=\"138\">138</a></sup> No encontramos una dosis de etiqueta citable para mostrar."
@@ -10183,10 +9303,6 @@
    "oxytocin": {
     "short": "Etiqueta: infusión IV de 0.5–1 mU/min, ajustada (hospital)",
     "html": "<b>Pitocin (inducción del parto por indicación médica):</b> solo infusión IV, con bomba: iniciar con 0.5–1 miliunidades/min y aumentar 1–2 miliunidades/min cada 30–60 minutos hasta lograr el patrón de contracciones deseado. <b>Sangrado posparto:</b> 10–40 unidades agregadas a una infusión IV en curso, o 10 unidades IM después de la expulsión de la placenta.<sup class=\"cites\"><a class=\"cite\" href=\"#s141\" data-src=\"141\">141</a></sup>"
-   },
-   "mvt602": {
-    "short": "Dosis de ensayo: dosis única de 0.1–3 µg",
-    "html": "Dosis subcutáneas únicas de 0.1, 0.3, 1.0 o 3.0 µg en mujeres.<sup class=\"cites\"><a class=\"cite\" href=\"#s142\" data-src=\"142\">142</a></sup>"
    },
    "abaloparatide": {
     "short": "Etiqueta: 80 mcg al día",
@@ -10204,38 +9320,6 @@
     "short": "Etiqueta: 0.05 mg/kg al día",
     "html": "<b>Gattex (síndrome de intestino corto con soporte parenteral):</b> 0.05 mg/kg por vía subcutánea una vez al día para adultos y niños de 1 año o más.<sup class=\"cites\"><a class=\"cite\" href=\"#s147\" data-src=\"147\">147</a></sup>"
    },
-   "glepaglutide": {
-    "short": "Dosis de ensayo: 10 mg dos veces por semana",
-    "html": "Fase 3: 10 mg por vía subcutánea dos veces por semana (eficaz) o una vez por semana (sin diferencia significativa frente a placebo) durante 24 semanas.<sup class=\"cites\"><a class=\"cite\" href=\"#s148\" data-src=\"148\">148</a></sup>"
-   },
-   "larazotide": {
-    "short": "Dosis de ensayo: 0.5–2 mg tres veces al día",
-    "html": "Fase 2: 0.5, 1 o 2 mg por vía oral tres veces al día; solo 0.5 mg superó al placebo.<sup class=\"cites\"><a class=\"cite\" href=\"#s149\" data-src=\"149\">149</a></sup>"
-   },
-   "epitalon": {
-    "short": "Sin dosis establecida en humanos",
-    "html": "No existe una dosis establecida ni probada en humanos; la FDA no lo ha aprobado para ningún uso. Abajo se muestra un protocolo de la comunidad de researchcfps.com solo con fines educativos; no es una dosis probada ni aprobada. La FDA dice que no ha identificado información de seguridad para la vía propuesta.<sup class=\"cites\"><a class=\"cite\" href=\"#s33\" data-src=\"33\">33</a></sup>"
-   },
-   "foxo4dri": {
-    "short": "Sin dosis establecida en humanos",
-    "html": "No existe una dosis establecida ni probada en humanos; la FDA no lo ha aprobado para ningún uso. Abajo se muestra un protocolo de la comunidad de researchcfps.com solo con fines educativos; no es una dosis probada ni aprobada. Los datos provienen solo de ratones.<sup class=\"cites\"><a class=\"cite\" href=\"#s154\" data-src=\"154\">154</a></sup>"
-   },
-   "tatbeclin": {
-    "short": "Sin dosis establecida en humanos",
-    "html": "No existe una dosis establecida ni probada en humanos; la FDA no lo ha aprobado para ningún uso. No incluimos cantidades de la comunidad, de vendedores ni de \"protocolos\". Los datos provienen solo de células y ratones.<sup class=\"cites\"><a class=\"cite\" href=\"#s155\" data-src=\"155\">155</a></sup>"
-   },
-   "glutathione": {
-    "short": "Dosis de ensayo: 250–1,000 mg/día oral",
-    "html": "Ensayo aleatorizado de 6 meses: 250 o 1,000 mg/día por vía oral.<sup class=\"cites\"><a class=\"cite\" href=\"#s156\" data-src=\"156\">156</a></sup>"
-   },
-   "carnosine": {
-    "short": "Las dosis de los ensayos variaron",
-    "html": "Los ensayos agrupados en el metaanálisis de 2025 usaron dosis variables de carnosina o beta-alanina; los autores piden estudios para establecer la dosis óptima.<sup class=\"cites\"><a class=\"cite\" href=\"#s157\" data-src=\"157\">157</a></sup>"
-   },
-   "vesugen": {
-    "short": "Sin dosis establecida en humanos",
-    "html": "No existe una dosis establecida ni probada en humanos; la FDA no lo ha aprobado para ningún uso. Abajo se muestra un protocolo de la comunidad de researchcfps.com solo con fines educativos; no es una dosis probada ni aprobada. Los resúmenes de los pequeños estudios no controlados no indican dosis.<sup class=\"cites\"><a class=\"cite\" href=\"#s158\" data-src=\"158\">158</a><span class=\"cite-sep\">,</span><a class=\"cite\" href=\"#s114\" data-src=\"114\">114</a></sup>"
-   },
    "motixafortide": {
     "short": "Etiqueta: 1.25 mg/kg antes de la aféresis",
     "html": "<b>Aphexda (movilización de células madre en mieloma múltiple):</b> después de 4 días de filgrastim, 1.25 mg/kg por vía subcutánea 10–14 horas antes de la aféresis; se puede dar una segunda dosis antes de una tercera aféresis. Se requiere premedicación.<sup class=\"cites\"><a class=\"cite\" href=\"#s161\" data-src=\"161\">161</a></sup>"
@@ -10247,14 +9331,6 @@
    "enlicitide": {
     "short": "Etiqueta: 20 mg oral una vez al día",
     "html": "<b>Lipfendra (colesterol LDL alto):</b> una tableta de 20 mg por vía oral una vez al día por la mañana, en ayunas; esperar al menos 30 minutos antes de comer.<sup class=\"cites\"><a class=\"cite\" href=\"#s166\" data-src=\"166\">166</a></sup>"
-   },
-   "risuteganib": {
-    "short": "Dosis de ensayo: no reportadas en la fuente",
-    "html": "Se probó en ensayos oculares iniciales de fase 1/2; el resumen de la revisión citada aquí no indica las dosis.<sup class=\"cites\"><a class=\"cite\" href=\"#s167\" data-src=\"167\">167</a></sup>"
-   },
-   "prostamax": {
-    "short": "Sin dosis establecida en humanos",
-    "html": "No existe una dosis establecida ni probada en humanos; la FDA no lo ha aprobado para ningún uso. Abajo se muestra un protocolo de la comunidad de researchcfps.com solo con fines educativos; no es una dosis probada ni aprobada. Los datos provienen solo de cultivos de tejido de rata.<sup class=\"cites\"><a class=\"cite\" href=\"#s168\" data-src=\"168\">168</a></sup>"
    }
   },
   "LAB": {
@@ -11389,552 +10465,6 @@
    "prostamax": {
     "short": "Sin etiqueta; solo orientación general para liofilizados",
     "html": "No aplica ninguna etiqueta de almacenamiento de un medicamento terminado aprobado por la FDA. La guía CMC de la FDA sobre péptidos sintéticos señala que el polvo liofilizado es relativamente más estable si se mantiene seco, protegido de la luz y en frío (la guía menciona −20°C en condiciones secas); las soluciones y la humedad alta aceleran la oxidación, la desamidación y la hidrólisis.<sup class=\"cites\"><a class=\"cite\" href=\"#s181\" data-src=\"181\">181</a></sup> Después de cualquier reconstitución, usar técnica estéril y refrigerar de inmediato; no inventar fechas límite de uso: la estabilidad depende de la secuencia y de la formulación. Las páginas de compuestos de researchcfps.com revisadas para esta actualización no publicaron una especificación aparte de almacenamiento/reconstitución (solo un enlace a una calculadora de reconstitución), por lo que no se muestra un bloque de almacenamiento de la comunidad."
-   }
-  },
-  "COMMUNITY": {
-   "bpc157": {
-    "rows": [
-     [
-      "Cantidad",
-      "250-500 mcg"
-     ],
-     [
-      "Frecuencia",
-      "1-2 veces al día"
-     ],
-     [
-      "Ciclo",
-      "4-6 semanas de uso, seguidas de 2-4 semanas de descanso"
-     ]
-    ]
-   },
-   "tb500": {
-    "rows": [
-     [
-      "Cantidad",
-      "2.0 - 2.5 mg por inyección"
-     ],
-     [
-      "Frecuencia",
-      "2 veces por semana (fase de carga)"
-     ],
-     [
-      "Ciclo",
-      "4-6 semanas de uso (fase de carga), seguidas de una dosis de mantenimiento de 2-2.5 mg una vez al mes o cada dos semanas"
-     ]
-    ]
-   },
-   "ghkcu": {
-    "rows": [
-     [
-      "Cantidad",
-      "1-2 mg/día (SubQ) o concentración del 1-3% (tópico)"
-     ],
-     [
-      "Frecuencia",
-      "Una vez al día"
-     ],
-     [
-      "Ciclo",
-      "4-8 semanas de uso, 2-4 semanas de descanso"
-     ]
-    ]
-   },
-   "cjcipa": {
-    "rows": [
-     [
-      "Cantidad",
-      "100-300 mcg de cada compuesto por dosis"
-     ],
-     [
-      "Frecuencia",
-      "1-2 veces al día (a menudo por la mañana y antes de dormir)"
-     ],
-     [
-      "Ciclo",
-      "8-12 semanas de uso, seguidas de 4 semanas de descanso"
-     ]
-    ]
-   },
-   "aod9604": {
-    "rows": [
-     [
-      "Cantidad",
-      "250-500 mcg/día"
-     ],
-     [
-      "Frecuencia",
-      "Una vez al día, normalmente por la mañana en ayunas"
-     ],
-     [
-      "Ciclo",
-      "8-12 semanas de uso, seguidas de un descanso"
-     ]
-    ]
-   },
-   "motsc": {
-    "rows": [
-     [
-      "Cantidad",
-      "5-10 mg"
-     ],
-     [
-      "Frecuencia",
-      "1-3 veces por semana"
-     ],
-     [
-      "Ciclo",
-      "4-6 semanas de uso, 2-4 semanas de descanso"
-     ]
-    ]
-   },
-   "adipotide": {
-    "rows": [
-     [
-      "Cantidad",
-      "250-500 mcg/día (Nota: extrapolado de modelos animales)"
-     ],
-     [
-      "Frecuencia",
-      "Diario"
-     ],
-     [
-      "Ciclo",
-      "4 semanas de uso, seguidas de un periodo de recuperación"
-     ]
-    ]
-   },
-   "kpv": {
-    "rows": [
-     [
-      "Cantidad",
-      "200-500 mcg/día"
-     ],
-     [
-      "Frecuencia",
-      "Una o dos veces al día"
-     ],
-     [
-      "Ciclo",
-      "4-8 semanas de uso, seguidas de un descanso"
-     ]
-    ]
-   },
-   "mgf": {
-    "rows": [
-     [
-      "Cantidad",
-      "200-400 mcg por administración"
-     ],
-     [
-      "Frecuencia",
-      "2-3 veces por semana, normalmente después de entrenar"
-     ],
-     [
-      "Ciclo",
-      "4-6 semanas de uso, seguidas de 4 semanas de descanso"
-     ]
-    ]
-   },
-   "semax": {
-    "rows": [
-     [
-      "Cantidad",
-      "200-1000 mcg al día"
-     ],
-     [
-      "Frecuencia",
-      "1-3 veces al día"
-     ],
-     [
-      "Ciclo",
-      "2-4 semanas de uso, seguidas de un descanso de igual duración"
-     ]
-    ]
-   },
-   "selank": {
-    "rows": [
-     [
-      "Cantidad",
-      "250-500 mcg al día (a menudo administrado por spray nasal o SubQ)"
-     ],
-     [
-      "Frecuencia",
-      "1-3 veces al día"
-     ],
-     [
-      "Ciclo",
-      "10-14 días de uso, seguidos de un descanso de 1-2 semanas"
-     ]
-    ]
-   },
-   "dihexa": {
-    "rows": [
-     [
-      "Cantidad",
-      "10-20 mg/día (oral/sublingual) o 2-5 mg/día (SubQ)"
-     ],
-     [
-      "Frecuencia",
-      "Una vez al día o 2-3 veces/semana"
-     ],
-     [
-      "Ciclo",
-      "4-8 semanas de uso, 4 semanas de descanso"
-     ]
-    ]
-   },
-   "dsip": {
-    "rows": [
-     [
-      "Cantidad",
-      "100-250 mcg"
-     ],
-     [
-      "Frecuencia",
-      "1-3 horas antes de dormir, según sea necesario"
-     ],
-     [
-      "Ciclo",
-      "A menudo se usa de forma aguda o en ciclos (p. ej., 5 días de uso, 2 de descanso) para evitar la tolerancia"
-     ]
-    ]
-   },
-   "pe2228": {
-    "rows": [
-     [
-      "Cantidad",
-      "200-600 mcg/día (anecdótico/investigación)"
-     ],
-     [
-      "Frecuencia",
-      "Una vez al día"
-     ],
-     [
-      "Ciclo",
-      "4-8 semanas de uso, seguidas de un descanso"
-     ]
-    ]
-   },
-   "pinealon": {
-    "rows": [
-     [
-      "Cantidad",
-      "1-2 mg al día (SubQ) o 10-20 mg al día (oral)"
-     ],
-     [
-      "Frecuencia",
-      "Una vez al día"
-     ],
-     [
-      "Ciclo",
-      "10-20 días, repetido 2-3 veces al año"
-     ]
-    ]
-   },
-   "thymalin": {
-    "rows": [
-     [
-      "Cantidad",
-      "10 mg al día"
-     ],
-     [
-      "Frecuencia",
-      "Una vez al día durante 5-10 días"
-     ],
-     [
-      "Ciclo",
-      "Repetido cada 1-6 meses según el estado inmunitario"
-     ]
-    ]
-   },
-   "vilon": {
-    "rows": [
-     [
-      "Cantidad",
-      "1-2 mg/día"
-     ],
-     [
-      "Frecuencia",
-      "Una vez al día"
-     ],
-     [
-      "Ciclo",
-      "10-20 días de uso, seguidos de un descanso de varios meses"
-     ]
-    ]
-   },
-   "epitalon": {
-    "rows": [
-     [
-      "Cantidad",
-      "5-10 mg/día"
-     ],
-     [
-      "Frecuencia",
-      "Una vez al día"
-     ],
-     [
-      "Ciclo",
-      "10-20 días por ciclo, repetido 1-2 veces al año"
-     ]
-    ]
-   },
-   "foxo4dri": {
-    "rows": [
-     [
-      "Cantidad",
-      "1-3 mg/día (dosis teórica de investigación)"
-     ],
-     [
-      "Frecuencia",
-      "Cada dos días"
-     ],
-     [
-      "Ciclo",
-      "Tandas cortas (p. ej., 3 dosis en una semana) seguidas de descansos largos"
-     ]
-    ]
-   },
-   "prostamax": {
-    "rows": [
-     [
-      "Cantidad",
-      "1-2 mg al día (de viales reconstituidos de 10-20 mg)"
-     ],
-     [
-      "Frecuencia",
-      "Una vez al día mediante inyección SubQ"
-     ],
-     [
-      "Ciclo",
-      "10-20 días, repetido cada 3-6 meses"
-     ]
-    ]
-   },
-   "hexarelin": {
-    "rows": [
-     [
-      "Cantidad",
-      "100-200 mcg por dosis"
-     ],
-     [
-      "Frecuencia",
-      "1-2 veces al día"
-     ],
-     [
-      "Ciclo",
-      "4-6 semanas de uso, seguidas de 2-4 semanas de descanso para evitar la desensibilización"
-     ]
-    ]
-   },
-   "ghrp6": {
-    "rows": [
-     [
-      "Cantidad",
-      "100-300 mcg por inyección"
-     ],
-     [
-      "Frecuencia",
-      "1-3 veces al día (a menudo en ayunas o después de entrenar)"
-     ],
-     [
-      "Ciclo",
-      "8-12 semanas de uso, seguidas de un descanso"
-     ]
-    ]
-   },
-   "melanotan2": {
-    "rows": [
-     [
-      "Cantidad",
-      "250-500 mcg por inyección"
-     ],
-     [
-      "Frecuencia",
-      "Una vez al día o cada dos días hasta alcanzar la pigmentación deseada; luego se reduce a una dosis de mantenimiento de 1-2 veces/semana"
-     ],
-     [
-      "Ciclo",
-      "Fase de carga de 2-4 semanas, seguida de una fase de mantenimiento"
-     ]
-    ]
-   },
-   "vesugen": {
-    "rows": [
-     [
-      "Cantidad",
-      "10-20 mg/día (oral) o 5-10 mg (SubQ)"
-     ],
-     [
-      "Frecuencia",
-      "1-2 veces al día"
-     ],
-     [
-      "Ciclo",
-      "10-30 días, repetido cada 4-6 meses"
-     ]
-    ]
-   },
-   "ll37": {
-    "rows": [
-     [
-      "Cantidad",
-      "100-250 mcg/día"
-     ],
-     [
-      "Frecuencia",
-      "Una vez al día"
-     ],
-     [
-      "Ciclo",
-      "2-4 semanas de uso, seguidas de una evaluación"
-     ]
-    ]
-   },
-   "kisspeptin10": {
-    "rows": [
-     [
-      "Cantidad",
-      "100-300 mcg por dosis"
-     ],
-     [
-      "Frecuencia",
-      "1-3 veces por semana (imitando la liberación pulsátil)"
-     ],
-     [
-      "Ciclo",
-      "4-8 semanas de uso, seguidas de un descanso para evitar la desensibilización"
-     ]
-    ]
-   },
-   "thymosina1": {
-    "rows": [
-     [
-      "Cantidad",
-      "1.5 mg"
-     ],
-     [
-      "Frecuencia",
-      "2 veces por semana"
-     ],
-     [
-      "Ciclo",
-      "4-12 semanas según el protocolo de investigación"
-     ]
-    ]
-   },
-   "ara290": {
-    "rows": [
-     [
-      "Cantidad",
-      "4 mg/día"
-     ],
-     [
-      "Frecuencia",
-      "Una vez al día"
-     ],
-     [
-      "Ciclo",
-      "Ciclo de 28 días (4 semanas)"
-     ]
-    ]
-   },
-   "glutathione": {
-    "rows": [
-     [
-      "Cantidad",
-      "200-600 mg/día (SubQ/IM) o 500-1000 mg (oral liposomal)"
-     ],
-     [
-      "Frecuencia",
-      "1-3 veces/semana para inyecciones, diario para la vía oral"
-     ],
-     [
-      "Ciclo",
-      "Continuo u 8-12 semanas para protocolos específicos"
-     ]
-    ]
-   },
-   "carnosine": {
-    "rows": [
-     [
-      "Cantidad",
-      "500-1000 mg/día (oral)"
-     ],
-     [
-      "Frecuencia",
-      "1-2 veces al día"
-     ],
-     [
-      "Ciclo",
-      "Uso continuo; no se requiere un ciclo específico"
-     ]
-    ]
-   },
-   "cerebrolysin": {
-    "rows": [
-     [
-      "Cantidad",
-      "5-50 mL al día según la gravedad de la afección (p. ej., 5 mL IM para problemas cognitivos leves, hasta 50 mL IV para un accidente cerebrovascular agudo)"
-     ],
-     [
-      "Frecuencia",
-      "Una vez al día"
-     ],
-     [
-      "Ciclo",
-      "Normalmente 10-20 días por ciclo, que pueden repetirse según la respuesta clínica"
-     ]
-    ]
-   },
-   "vip": {
-    "rows": [
-     [
-      "Cantidad",
-      "50-100 mcg (spray nasal) o infusión IV continua en entornos clínicos"
-     ],
-     [
-      "Frecuencia",
-      "1-4 veces al día (spray nasal)"
-     ],
-     [
-      "Ciclo",
-      "Continuo según el control de síntomas, o uso agudo a corto plazo en cuidados críticos"
-     ]
-    ]
-   },
-   "argireline": {
-    "rows": [
-     [
-      "Cantidad",
-      "Concentración del 5-10% en formulaciones tópicas"
-     ],
-     [
-      "Frecuencia",
-      "1-2 veces al día"
-     ],
-     [
-      "Ciclo",
-      "Uso diario continuo para resultados sostenidos"
-     ]
-    ]
-   },
-   "matrixyl": {
-    "rows": [
-     [
-      "Cantidad",
-      "Concentración del 3% al 8% en formulaciones tópicas"
-     ],
-     [
-      "Frecuencia",
-      "Una o dos veces al día"
-     ],
-     [
-      "Ciclo",
-      "Uso diario continuo durante al menos 4-12 semanas para ver resultados"
-     ]
-    ]
    }
   },
   "QUIZ_BANK": [
