@@ -2393,13 +2393,13 @@ const TERMS={"en": "<p><b>1. Educational purposes only.</b> KnowPeptides (knowpe
 const T={en:{lockH:"🔒 Dosing & protocols: free account required",lockP:"Create a free account and accept the Terms of Use to see dosing details and community protocols. Educational only, not medical advice.",signup:"Create free account",login:"Log in",short:"🔒 Free account required",
  acct:"Log in",out:"Log out",hi:"Signed in",tabUp:"Create account",tabIn:"Log in",hUp:"Create your free account",subUp:"Unlock dosing details and community protocols.",hIn:"Welcome back",subIn:"Log in to see dosing details.",
  name:"Full name",email:"Email",pw:"Password (at least 8 characters)",agree:"I am 18 or older and I agree to the <a data-a=\"terms\">Terms of Use &amp; Liability Acknowledgment</a>. I understand this site is not medical advice.",
- go:"Create account",goIn:"Log in",forgot:"Forgot password?",resetSent:"If that email has an account, a reset link is on its way.",check:"Almost done! Check your email and tap the confirmation link, then log in here.",
+ go:"Create account",goIn:"Log in",forgot:"Forgot password?",resetSent:"If that email has an account, a reset link is on its way.",check:"Almost done! Check your email and tap the confirmation link, then log in here.",confirmed:"Email confirmed? Sign in below with your email and password.",
  termsH:"Terms of Use & Liability Acknowledgment",back:"← Back",reH:"Updated terms",reP:"Please review and accept the current Terms of Use to keep access to dosing details.",accept:"I accept",
  needName:"Please enter your name.",needAgree:"Please check the box to accept the Terms.",offline:"Sign-in isn't available right now. Please try again later.",welcome:"You're in. Dosing details are unlocked.",loading:"Please wait…",foot:"We only use your name and email for your account. No spam.",close:"Close"},
  es:{lockH:"🔒 Dosis y protocolos: requiere cuenta gratuita",lockP:"Crea una cuenta gratuita y acepta los Términos de Uso para ver los detalles de dosis y los protocolos de la comunidad. Solo educativo, no es consejo médico.",signup:"Crear cuenta gratuita",login:"Iniciar sesión",short:"🔒 Requiere cuenta gratuita",
  acct:"Iniciar sesión",out:"Cerrar sesión",hi:"Sesión iniciada",tabUp:"Crear cuenta",tabIn:"Iniciar sesión",hUp:"Crea tu cuenta gratuita",subUp:"Desbloquea los detalles de dosis y los protocolos de la comunidad.",hIn:"Bienvenido de nuevo",subIn:"Inicia sesión para ver los detalles de dosis.",
  name:"Nombre completo",email:"Correo electrónico",pw:"Contraseña (mínimo 8 caracteres)",agree:"Tengo 18 años o más y acepto los <a data-a=\"terms\">Términos de Uso y Reconocimiento de Responsabilidad</a>. Entiendo que este sitio no ofrece consejo médico.",
- go:"Crear cuenta",goIn:"Iniciar sesión",forgot:"¿Olvidaste tu contraseña?",resetSent:"Si ese correo tiene una cuenta, te enviamos un enlace para restablecerla.",check:"¡Casi listo! Revisa tu correo y toca el enlace de confirmación; luego inicia sesión aquí.",
+ go:"Crear cuenta",goIn:"Iniciar sesión",forgot:"¿Olvidaste tu contraseña?",resetSent:"Si ese correo tiene una cuenta, te enviamos un enlace para restablecerla.",check:"¡Casi listo! Revisa tu correo y toca el enlace de confirmación; luego inicia sesión aquí.",confirmed:"¿Ya confirmaste tu correo? Inicia sesión abajo con tu correo y contraseña.",
  termsH:"Términos de Uso y Reconocimiento de Responsabilidad",back:"← Volver",reH:"Términos actualizados",reP:"Revisa y acepta los Términos de Uso vigentes para seguir viendo los detalles de dosis.",accept:"Acepto",
  needName:"Escribe tu nombre.",needAgree:"Marca la casilla para aceptar los Términos.",offline:"El inicio de sesión no está disponible en este momento. Inténtalo más tarde.",welcome:"¡Listo! Los detalles de dosis están desbloqueados.",loading:"Un momento…",foot:"Solo usamos tu nombre y correo para tu cuenta. Sin spam.",close:"Cerrar"}};
 const t=k=>(T[(typeof LANG!=="undefined"&&LANG==="es")?"es":"en"][k]);
@@ -2418,6 +2418,7 @@ async function loadGated(){ if(!sb||!session||!isLocked()&&!GATED) return;
 async function profileOK(){ const {data,error}=await sb.from("profiles").select("terms_version,terms_accepted_at").eq("id",session.user.id).maybeSingle();
   if(error) return null; return !!(data&&data.terms_accepted_at&&data.terms_version===TERMS_VERSION); }
 const box=()=>document.getElementById("authBox"), bg=()=>document.getElementById("authBg");
+const REDIR="https://knowpeptides.org/";
 function msg(txt,cls){ const m=box().querySelector(".amsg"); if(m){ m.textContent=txt||""; m.className="amsg "+(cls||""); } }
 function render(){ const b=box(); if(!b) return;
   const x=`<button type="button" class="x" data-a="close" aria-label="${t("close")}">×</button>`;
@@ -2454,15 +2455,17 @@ document.addEventListener("submit",async e=>{ if(e.target.id!=="authForm") retur
   const f=e.target, em=f.querySelector("#aEmail").value.trim(), pw=f.querySelector("#aPw").value, go=f.querySelector("#aGo");
   if(view==="up"){ const nm=f.querySelector("#aName").value.trim(); if(!nm){ msg(t("needName"),"err"); return; } if(!f.querySelector("#aAgree").checked){ msg(t("needAgree"),"err"); return; }
     go.disabled=true; msg(t("loading"));
-    const {data,error}=await sb.auth.signUp({email:em,password:pw,options:{data:{full_name:nm,terms_version:TERMS_VERSION,terms_accepted_client_at:new Date().toISOString(),lang:(typeof LANG!=="undefined"?LANG:"en")},emailRedirectTo:location.origin+location.pathname}});
+    const {data,error}=await sb.auth.signUp({email:em,password:pw,options:{data:{full_name:nm,terms_version:TERMS_VERSION,terms_accepted_client_at:new Date().toISOString(),lang:(typeof LANG!=="undefined"?LANG:"en")},emailRedirectTo:REDIR}});
+    try{localStorage.setItem("kp_pending_confirm",em);}catch(_){}
     go.disabled=false; if(error){ msg(error.message,"err"); return; }
     if(!data.session){ msg(t("check"),"ok"); return; } }
-  else { go.disabled=true; msg(t("loading")); const {error}=await sb.auth.signInWithPassword({email:em,password:pw}); go.disabled=false; if(error){ msg(error.message,"err"); return; } }
+  else { go.disabled=true; msg(t("loading")); const {error}=await sb.auth.signInWithPassword({email:em,password:pw}); go.disabled=false; if(error){ msg(error.message,"err"); return; } try{localStorage.removeItem("kp_pending_confirm");}catch(_){} }
 });
 document.addEventListener("keydown",e=>{ if(e.key==="Escape"&&bg()&&bg().classList.contains("open")) close(); });
 new MutationObserver(()=>{ acctLabel(); if(bg().classList.contains("open")) render(); }).observe(document.documentElement,{attributes:true,attributeFilter:["lang"]});
 acctLabel(); if(isLocked()) rerenderAll();
-if(sb){ sb.auth.onAuthStateChange((ev,s)=>{ session=s; acctLabel(); if(s&&(ev==="SIGNED_IN"||ev==="INITIAL_SESSION")) setTimeout(afterLogin,0); }); }
+if(sb){ sb.auth.onAuthStateChange((ev,s)=>{ session=s; acctLabel(); if(s){ try{localStorage.removeItem("kp_pending_confirm");}catch(_){} } if(s&&(ev==="SIGNED_IN"||ev==="INITIAL_SESSION")) setTimeout(afterLogin,0); });
+  sb.auth.getSession().then(({data})=>{ let pe=null; try{pe=localStorage.getItem("kp_pending_confirm");}catch(_){} if(pe&&!(data&&data.session)){ open("in"); const ie=box().querySelector("#aEmail"); if(ie) ie.value=pe; msg(t("confirmed"),"ok"); } }); }
 })();
 </script>
 </body>
