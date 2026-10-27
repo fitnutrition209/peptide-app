@@ -342,7 +342,7 @@ nav.tabs a.contact{border:1px solid #3ef0ff55}
 <header class="hero" id="top">
   <canvas id="helix" aria-hidden="true"></canvas>
   <div class="wrap">
-    <span class="stamp">Updated October 23, 2026 · US focus</span>
+    <span class="stamp">Updated October 26, 2026 · US focus</span>
     <h1>KnowPeptides</h1>
     <p class="lead">The peptides people are talking about right now — from blockbuster weight-loss drugs to "biohacking" injectables — sorted by what the evidence actually shows and where US regulators stand.</p>
     <div class="hero-stats" aria-label="At a glance">
@@ -2354,13 +2354,14 @@ function applyAppData(d){
 }
 window.__dataSource="embedded";
 /* DEEP LINK: #quiz or ?start=quiz -> fresh round, scroll to Quiz (below sticky nav), highlight Quiz tab. Runs after the remote data swap. */
-function wantsQuiz(){ return location.hash.toLowerCase()==="#quiz" || new URLSearchParams(location.search).get("start")==="quiz"; }
+function wantsQuiz(){ let hs=location.hash||""; try{ hs=decodeURIComponent(hs); }catch(_){} hs=hs.trim().toLowerCase(); const q=new URLSearchParams(location.search);
+  return /^#\/?quiz(\b|$)/.test(hs) || q.has("quiz") || ["start","s","section","go"].some(k=>(q.get(k)||"").toLowerCase()==="quiz"); }
 let __qlRound=false,__qlUser=false,__qlUntil=0;
 ["touchstart","wheel","keydown","mousedown"].forEach(ev=>addEventListener(ev,()=>{__qlUser=true},{passive:true,capture:true}));
 if("scrollRestoration" in history && wantsQuiz()) history.scrollRestoration="manual";
 function openQuizLink(force){ if(!wantsQuiz()) return; if(!__qlRound){ newRound(); __qlRound=true; }
   if(force){ __qlUser=false; }
-  const go=()=>{ const el=document.getElementById("quiz"), nav=document.querySelector("nav.tabs"); scrollTo({top:el.getBoundingClientRect().top+scrollY-(nav&&getComputedStyle(nav).position==="sticky"?nav.offsetHeight:0)-8,behavior:"instant"}); links.forEach(l=>l.classList.toggle("active", l.getAttribute("href")==="#quiz")); };
+  const go=()=>{ const el=document.getElementById("quiz"), nav=document.querySelector("nav.tabs"); const y=el.getBoundingClientRect().top+scrollY-(nav&&getComputedStyle(nav).position==="sticky"?nav.offsetHeight:0)-8; scrollTo({top:y,behavior:"instant"}); if(Math.abs(el.getBoundingClientRect().top)>innerHeight/2){ try{ el.scrollIntoView({block:"start",behavior:"instant"}); }catch(_){ el.scrollIntoView(true); } } links.forEach(l=>l.classList.toggle("active", l.getAttribute("href")==="#quiz")); };
   const tick=()=>{ if(__qlUser||Date.now()>__qlUntil) return; go(); };
   __qlUntil=Math.max(__qlUntil,Date.now()+6000);
   go(); [100,350,700,1200,2000,3000,4500,6000].forEach(t=>setTimeout(tick,t)); setTimeout(()=>{ window.__deepLinked=true; },900); }
@@ -2368,6 +2369,7 @@ function openQuizLink(force){ if(!wantsQuiz()) return; if(!__qlRound){ newRound(
 if(wantsQuiz()){ if(document.readyState==="loading") document.addEventListener("DOMContentLoaded",()=>openQuizLink()); else setTimeout(()=>openQuizLink(),0);
   addEventListener("load",()=>openQuizLink()); if(document.fonts&&document.fonts.ready) document.fonts.ready.then(()=>openQuizLink());
   addEventListener("pageshow",ev=>{ if(ev.persisted) openQuizLink(true); }); }
+addEventListener("hashchange",()=>{ if(wantsQuiz()) openQuizLink(true); });
 (async()=>{ try{ if(window.__NO_REMOTE) return;
   const ac=new AbortController(); const tm=setTimeout(()=>ac.abort(),4000);
   const r=await fetch(DATA_URL+"?v="+Date.now(),{signal:ac.signal,cache:"no-store"}); clearTimeout(tm);
@@ -2465,7 +2467,7 @@ document.addEventListener("keydown",e=>{ if(e.key==="Escape"&&bg()&&bg().classLi
 new MutationObserver(()=>{ acctLabel(); if(bg().classList.contains("open")) render(); }).observe(document.documentElement,{attributes:true,attributeFilter:["lang"]});
 acctLabel(); if(isLocked()) rerenderAll();
 if(sb){ sb.auth.onAuthStateChange((ev,s)=>{ session=s; acctLabel(); if(s){ try{localStorage.removeItem("kp_pending_confirm");}catch(_){} } if(s&&(ev==="SIGNED_IN"||ev==="INITIAL_SESSION")) setTimeout(afterLogin,0); });
-  sb.auth.getSession().then(({data})=>{ let pe=null; try{pe=localStorage.getItem("kp_pending_confirm");}catch(_){} if(pe&&!(data&&data.session)){ open("in"); const ie=box().querySelector("#aEmail"); if(ie) ie.value=pe; msg(t("confirmed"),"ok"); } }); }
+  sb.auth.getSession().then(({data})=>{ let pe=null; try{pe=localStorage.getItem("kp_pending_confirm");}catch(_){} if(pe&&!(data&&data.session)&&!(typeof wantsQuiz==="function"&&wantsQuiz())){ open("in"); const ie=box().querySelector("#aEmail"); if(ie) ie.value=pe; msg(t("confirmed"),"ok"); } }); }
 })();
 </script>
 </body>
