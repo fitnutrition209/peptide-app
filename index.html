@@ -28,6 +28,11 @@ a{color:var(--cy)} a:hover{color:#fff}
 ::selection{background:#3ef0ff55}
 :focus-visible{outline:2px solid var(--cy);outline-offset:3px;border-radius:8px}
 .wrap{max-width:1180px;margin:0 auto;padding:0 22px}
+.toplang{display:flex;justify-content:center;gap:10px;padding:6px 10px;background:#070c1c;border-bottom:1px solid var(--line)}
+.toplang button{display:inline-flex;align-items:center;gap:8px;min-height:40px;min-width:44px;padding:6px 14px;border-radius:999px;border:1px solid #3ef0ff44;background:#111a33;color:var(--muted);font-family:var(--mono);font-size:13px;font-weight:700;letter-spacing:.05em;cursor:pointer}
+.toplang button svg{width:24px;height:16px;border-radius:2px;box-shadow:0 0 0 1px #ffffff33;flex:0 0 auto}
+.toplang button[aria-pressed=true]{background:var(--cy);color:#05070f;border-color:var(--cy);box-shadow:0 0 14px #3ef0ff55}
+.toplang button:focus-visible{outline:2px solid #fff;outline-offset:2px}
 .disclaimer{background:linear-gradient(90deg,#1a0f2e,#0b1a2e);color:#e8ecff;font-size:13px;text-align:center;padding:8px 14px;border-bottom:1px solid var(--line);font-family:var(--mono);letter-spacing:.01em}
 .disclaimer strong{color:#ffd166}
 /* HERO */
@@ -337,12 +342,13 @@ nav.tabs a.contact{border:1px solid #3ef0ff55}
 </style>
 </head>
 <body>
+<div class="toplang" role="group" aria-label="Language / Idioma"><button type="button" data-lang="en" aria-pressed="true" aria-label="English" lang="en"><svg viewBox="0 0 19 10" aria-hidden="true"><rect width="19" height="10" fill="#b22234"/><path d="M0 1.15h19M0 2.7h19M0 4.23h19M0 5.77h19M0 7.3h19M0 8.85h19" stroke="#fff" stroke-width=".77"/><rect width="7.6" height="5.38" fill="#3c3b6e"/></svg><span>EN</span></button><button type="button" data-lang="es" aria-pressed="false" aria-label="Español" lang="es"><svg viewBox="0 0 21 12" aria-hidden="true"><rect width="7" height="12" fill="#006847"/><rect x="7" width="7" height="12" fill="#fff"/><rect x="14" width="7" height="12" fill="#ce1126"/><circle cx="10.5" cy="6" r="1.7" fill="#8c5a2b"/></svg><span>ES</span></button></div>
 <div class="disclaimer" role="note"><strong>Not medical advice.</strong> Educational overview only — talk to a licensed clinician before starting, stopping, or buying any peptide.</div>
 
 <header class="hero" id="top">
   <canvas id="helix" aria-hidden="true"></canvas>
   <div class="wrap">
-    <span class="stamp">Updated October 26, 2026 · US focus</span>
+    <span class="stamp">Updated October 31, 2026 · US focus</span>
     <h1>KnowPeptides</h1>
     <p class="lead">The peptides people are talking about right now — from blockbuster weight-loss drugs to "biohacking" injectables — sorted by what the evidence actually shows and where US regulators stand.</p>
     <div class="hero-stats" aria-label="At a glance">
@@ -2307,8 +2313,8 @@ function applyStatic(){
   STATIC_EN.forEach((en,el)=>{ const t=LANG==="es"&&ES.STATIC&&ES.STATIC[en]; el.innerHTML=t||en; });
   ATTRS.forEach(([sel,a])=>{ const el=$(sel); if(!el) return; if(!el.dataset["en"+a.replace(/-/g,"")]) el.dataset["en"+a.replace(/-/g,"")]=el.getAttribute(a)||""; el.setAttribute(a,L(el.dataset["en"+a.replace(/-/g,"")])); });
   document.querySelectorAll("h2[data-k]").forEach(h=>{ if(!h.dataset.ken) h.dataset.ken=h.dataset.k; h.dataset.k=L(h.dataset.ken); });
-  const st=document.querySelector(".hero .stamp"); if(st){ if(!st.dataset.en||st.dataset.src!==st.textContent&&LANG==="en") st.dataset.en=st.textContent; }
-  document.querySelectorAll(".lang button").forEach(b=>b.setAttribute("aria-pressed",String(b.dataset.lang===LANG)));
+  const st=document.querySelector(".hero .stamp"); if(st){ if(!st.dataset.en) st.dataset.en=st.textContent; }
+  document.querySelectorAll(".lang button,.toplang button").forEach(b=>b.setAttribute("aria-pressed",String(b.dataset.lang===LANG)));
 }
 function stampText(){ const st=document.querySelector(".hero .stamp"); if(!st) return; const en=st.dataset.en||st.textContent; st.dataset.en=en;
   if(LANG!=="es"){ st.textContent=en; return; }
@@ -2322,7 +2328,7 @@ function rerenderAll(){
   if(openId) openModal(openId);
 }
 function setLang(l){ LANG=l==="es"?"es":"en"; try{ localStorage.setItem("pepLang",LANG); }catch(e){} rerenderAll(); }
-document.querySelector(".lang").addEventListener("click",e=>{ const b=e.target.closest("[data-lang]"); if(b&&b.dataset.lang!==LANG) setLang(b.dataset.lang); });
+document.querySelectorAll(".lang,.toplang").forEach(g=>g.addEventListener("click",e=>{ const b=e.target.closest("[data-lang]"); if(b&&b.dataset.lang!==LANG) setLang(b.dataset.lang); }));
 /* clickable hero stats */
 function goTo(id){ const el=document.getElementById(id); if(!el) return; const nav=document.querySelector("nav.tabs"); const y=el.getBoundingClientRect().top+scrollY-(nav&&getComputedStyle(nav).position==="sticky"?nav.offsetHeight:0)-8; scrollTo({top:y,behavior:matchMedia("(prefers-reduced-motion: reduce)").matches?"auto":"smooth"}); }
 document.querySelector(".hero-stats").addEventListener("click",e=>{ const b=e.target.closest(".stat[data-go]"); if(!b) return;
